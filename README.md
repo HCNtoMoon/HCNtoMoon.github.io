@@ -6,7 +6,6 @@
 一、已经发生的：
 
 ```2021年11月1日，喜币上市！
-Syntax highlighted code block
 
 # Header 1
 ## Header 2

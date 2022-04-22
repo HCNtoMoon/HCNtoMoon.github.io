@@ -3,7 +3,19 @@
 
 <font color=#0000ff>**立足喜币，专注金融，放眼全球！**</font>
 
-关键词：HCN、喜币、HDO、喜美元、HPAY、喜支付、HimalayaExchange、喜交所、Blockchain、区块链、Bitcoin、比特币、ETH、以太坊、数字货币、Coinbase、Metaverse、元宇宙、NFT、非同质化代币、摩根家族、SWIFT
+> 关键词：HCN、喜币、HDO、喜美元、HPAY、喜支付、HimalayaExchange、喜交所、Blockchain、区块链、Bitcoin、比特币、ETH、以太坊、数字货币、Coinbase、Metaverse、元宇宙、NFT、非同质化代币、摩根家族、SWIFT
+
+
+```markdown
+名词解释：
+喜马拉雅美元(Himalaya Dollar)：喜美元、HDO、HDollar、H-Dollar
+喜马拉雅币(Himalaya Coin)：喜币、HCN、HCoin、H-Coin
+喜马拉雅支付(Himalaya Pay)：喜支付、HPay
+喜马拉雅交易所(Himalaya Exchange)：喜交所
+```
+
+
+
 
 <p align="center">
   <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/main/img-folder/HCN_HDO.png" width="100%">

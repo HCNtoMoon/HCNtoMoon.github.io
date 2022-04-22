@@ -1,6 +1,12 @@
 ## 喜币上月球
 
 
+
+<p align="center">
+  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/main/img-folder/rocket_1f680.png" width="100%">
+</p>
+
+
 ### 喜币大事记
 
 一、已经发生的：

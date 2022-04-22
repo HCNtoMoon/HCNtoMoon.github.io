@@ -1,7 +1,7 @@
 ## 喜币上月球 HCN TO THE MOON
 
 
-<font color=#0000ff>**立足喜币，专注金融，放眼全球！**</font>
+**<font color=#0000ff>立足喜币，专注金融，放眼全球！一币在手，天下我有！</font>**
 
 > 关键词：HCN、喜币、HDO、喜美元、HPAY、喜支付、HimalayaExchange、喜交所、Blockchain、区块链、Bitcoin、比特币、ETH、以太坊、数字货币、Coinbase、Metaverse、元宇宙、NFT、非同质化代币、摩根家族、SWIFT
 

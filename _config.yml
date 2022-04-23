@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk/ # root address of the site
+title: 喜币上月球
+author: HCNtoMoon
+url: https://hcntomoon.github.io/moonwalk/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  喜币上月球是一个完全由喜币爱好者创建的网站，完全免费。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于喜币~
 
 permalink: /:slug
 

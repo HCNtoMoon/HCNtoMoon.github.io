@@ -9,7 +9,7 @@ HCN PRICE :  https://himalaya.exchange/trading
 
 
 - 🔭 About Me: I’m a HCN supporter. 
-- 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) Github Pages- HCN, Blockchain and Finance news
+- 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) Github Pages(HCN, Blockchain, Stock markets and Finance news)
 - 😄 Follow Me:  [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/HCNtoMoon) 
 
 

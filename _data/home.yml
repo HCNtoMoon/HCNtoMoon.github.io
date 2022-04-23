@@ -16,27 +16,27 @@ project_entries:
 
   - title: 北美健身教练
     url: 北美健身教练
-    desc: Projects are shown in card layout
+    desc: 那个平板撑40分钟以上，健腹轮100个的健身教练
     highlight: HOT
     
   - title: 金融新闻
     url: 金融新闻
-    desc: You can control visibility from _config.yml file
+    desc: 
     highlight: NEW
     
   - title: 区块链新闻
     url: 区块链新闻
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: 
     highlight: NEW
 
   - title: 社会新闻
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    url: 社会新闻
+    desc: 
     highlight: NEW
 
   - title: 网站更新日志
     url: 网站更新日志
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: 
 
 
 

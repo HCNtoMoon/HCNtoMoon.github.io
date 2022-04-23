@@ -1,0 +1,89 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://hcntomoon.github.io
+
+project_entries:
+  - title: 喜币大事记
+    url: 喜币大事记
+    desc: 记载喜币一路走来发生的大事
+    highlight: HOT
+
+  - title: 北美健身教练
+    url: 北美健身教练
+    desc: 那个平板撑40分钟以上，健腹轮100个的健身教练
+    highlight: HOT
+    
+  - title: 金融新闻
+    url: 金融新闻
+    desc: 
+    highlight: NEW
+    
+  - title: 区块链新闻
+    url: 区块链新闻
+    desc: 
+    highlight: NEW
+
+  - title: 社会新闻
+    url: 社会新闻
+    desc: 
+    highlight: NEW
+
+  - title: 网站更新日志
+    url: 网站更新日志
+    desc: 
+
+
+
+
+footer_entries:
+  - title: home
+    url: https://hcntomoon.github.io
+
+  - title: twitter
+    url: https://twitter.com/HCNtoMoon
+
+  - title: github
+    url: https://github.com/HCNtoMoon
+
+  - title: gettr
+    url: https://gettr.com/user/hcntomoon
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+

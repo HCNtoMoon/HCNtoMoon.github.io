@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://hcntomoon.github.io
 
 project_entries:
   - title: Project 1
@@ -54,17 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: home
+    url: https://hcntomoon.github.io
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/HCNtoMoon
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/HCNtoMoon
 
-  - title: feed
-    url: feed.xml
+  - title: gettr
+    url: https://gettr.com/user/hcntomoon
 
 misc_entries:
   - title: this is an example vertical list

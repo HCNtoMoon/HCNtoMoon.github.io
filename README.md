@@ -46,15 +46,17 @@
 - 喜币现在有点儿高，有点儿高，但是买的没办法。场外交易都有到200去了。希望所有的投资者真的能赚大钱。（*2022年3月10日直播*）
 - 某个县的副县长的家人也是喜币拥有者 。（*2022年2月26日直播*）
 - 最重要的是让西方的投资机构看到，哇噻，原来中国人出来去钱的地方，美国你去不了，欧洲你去不成，日本就根本不可能！愚蠢的日本金融你就没有任何门可以进，你只能到新加坡、香港转悠转悠，最终你在哪？那不是你的财富安身立所之地，你可信赖的只有一个自由流通的Hpay和喜币。（*2022年2月25日直播*）
-- 一个咱国内的战友，转了200多万美元买完喜币，现在赚了几十万美元了，他说：“七哥，我从来没有像现在这么痛快过，我真的觉得我的孩子未来可能是因为我这个钱能活下去。”（*2022年2月20日直播*）
+- 一个咱国内的战友，转了200多万美元，买完喜币，现在赚了几十万美元了，他说：“七哥，我从来没有像现在这么痛快过，我真的觉得我的孩子未来可能是因为我这个钱能活下去。”（*2022年2月20日直播*）
 
 
 
 ## 四、金融新闻
 ### 1.区块链：
 
-### 2.股市外汇：
+### 2.股市：
 - 
+### 3.外汇
+
 
 ## End 结束语
 **[喜币上月球](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的网站，完全免费。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于喜币~**
@@ -62,5 +64,5 @@
 
 
 - 🔭 About Me: I’m a HCN supporter. 
-- 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) Github Pages(HCN, Blockchain, Stock markets and Finance news)
-- 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 
+- 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (News about HCN, Blockchain, Stock markets, Finance and so on)
+- 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Github](https://github.com/HCNtoMoon)    

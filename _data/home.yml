@@ -10,19 +10,19 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: overview-post
+    url: 喜币大事记
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
-    url: overview-post
+    url: 北美健身教练
     desc: Projects are shown in card layout
 
   - title: Project 3
-    url: overview-post
+    url: 金融新闻
     desc: You can control visibility from _config.yml file
 
   - title: Project 4
-    url: overview-post
+    url: 区块链新闻
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 

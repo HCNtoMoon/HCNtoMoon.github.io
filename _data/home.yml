@@ -9,30 +9,33 @@ navbar_entries:
     url: https://hcntomoon.github.io
 
 project_entries:
-  - title: Project 1
+  - title: 喜币大事记
     url: 喜币大事记
-    desc: This is an example project, configured in _data/home.yml
+    desc: 记载喜币一路走来发生的大事
+    highlight: HOT
 
-  - title: Project 2
+  - title: 北美健身教练
     url: 北美健身教练
     desc: Projects are shown in card layout
-
-  - title: Project 3
+    highlight: HOT
+    
+  - title: 金融新闻
     url: 金融新闻
     desc: You can control visibility from _config.yml file
-
-  - title: Project 4
+    highlight: NEW
+    
+  - title: 区块链新闻
     url: 区块链新闻
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    highlight: NEW
 
-  - title: Project 5
+  - title: 社会新闻
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    highlight: NEW
 
-  - title: Project 6
-    url: overview-post
+  - title: 网站更新日志
+    url: 网站更新日志
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
@@ -45,13 +48,7 @@ old_project_entries:
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: home

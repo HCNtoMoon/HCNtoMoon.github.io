@@ -9,34 +9,34 @@ navbar_entries:
     url: https://hcntomoon.github.io
 
 project_entries:
-  - title: 喜币大事记
+  - title: 【喜币大事记】
     url: 喜币大事记
     desc: 记载喜币一路走来发生的大事，同时展望未来，期待将要发生的事
     highlight: HOT
 
-  - title: 北美健身教练
+  - title: 【北美健身教练】
     url: 北美健身教练
     desc: 那个天天健身，经常展示平板撑、健腹轮、跑步机，还教大家怎么健身的北美健身教练
     highlight: HOT
     
-  - title: 金融新闻
+  - title: 【金融新闻】
     url: 金融新闻
     desc: 分享全球财经消息，包含外汇、股市（A股、港股、美股）、期货（黄金、原油）等
     highlight: NEW
     
-  - title: 区块链新闻
+  - title: 【区块链新闻】
     url: 区块链新闻
     desc: 未来是区块链的时代，未来是数字货币的时代
     highlight: NEW
 
-  - title: 社会新闻
+  - title: 【社会新闻】
     url: 社会新闻
     desc: 中国国内发生的社会新闻、世界新闻
     highlight: NEW
 
-  - title: 网站更新日志
+  - title: 【更新日志】
     url: 网站更新日志
-    desc: 记录关于本网站的更新日志
+    desc: 记录本网站的更新日志
 
 
 

@@ -16,22 +16,22 @@ project_entries:
 
   - title: 北美健身教练
     url: 北美健身教练
-    desc: 那个平板撑40分钟以上，健腹轮100个的健身教练
+    desc: 那个天天健身，会平板撑、健腹轮、跑步机，还教大家怎么健身的北美健身教练
     highlight: HOT
     
   - title: 金融新闻
     url: 金融新闻
-    desc: 
+    desc: 财经
     highlight: NEW
     
   - title: 区块链新闻
     url: 区块链新闻
-    desc: 
+    desc: 未来是区块链的时代
     highlight: NEW
 
   - title: 社会新闻
     url: 社会新闻
-    desc: 
+    desc: 中国国内发生的社会新闻、世界新闻
     highlight: NEW
 
   - title: 网站更新日志
@@ -46,10 +46,10 @@ footer_entries:
     url: https://hcntomoon.github.io
 
   - title: twitter
-    url: https://twitter.com/HCNtoMoon
+    url: https://twitter.com/hcntomoon
 
   - title: github
-    url: https://github.com/HCNtoMoon
+    url: https://github.com/hcntomoon
 
   - title: gettr
     url: https://gettr.com/user/hcntomoon

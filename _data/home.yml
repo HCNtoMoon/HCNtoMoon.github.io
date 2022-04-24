@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: 喜币大事记
     url: 喜币大事记
-    desc: 记载喜币一路走来发生的大事
+    desc: 记载喜币一路走来发生的大事，同时展望未来，期待将要发生的事
     highlight: HOT
 
   - title: 北美健身教练

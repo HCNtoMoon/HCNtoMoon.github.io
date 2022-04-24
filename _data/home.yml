@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: 关于
     url: about
 
-  - title: blog
+  - title: 文章
     url: blog
 
-  - title: website
+  - title: 首页
     url: https://hcntomoon.github.io
 
 project_entries:

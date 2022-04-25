@@ -36,7 +36,7 @@ theme_config:
   home:
     title_projects: 重点内容
       # title_misc_list: Details
-    title_blog: 所有文章
+    title_blog: 最新文章
     
 
 soopr:

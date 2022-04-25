@@ -12,6 +12,8 @@ layout: post
 
 [Hcoin to the Moon歌曲Youtube链接](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
 
+*Hcoin To The Moon歌词(中文+英文)* 
+
 自由 多么熟悉的字眼  
 却不知不觉 离我越来越遥远  
 曾经那个意气风发的少年  
@@ -61,3 +63,60 @@ Hcoin to the moon
 Hcoin to the moon  
 Hcoin to the moon  
 Hcoin to the moon  
+
+-----
+*纯英文版歌词 Hcoin To The Moon Lyrics* 
+
+
+Freedom sounds familiar to me
+
+But unknowingly getting far away from me
+
+The man with charms and energy only exists in the past
+
+Working hard desperately to only fight for living
+
+Wealth is their rain check but always out of touch
+
+A beautiful illusion with full of traps behind
+
+All kinds of economic implosion Housing price crashes to the hell
+
+Raise my head, full darkness covers the road ahead
+
+welcome to the world
+to the new world
+welcome to the world
+Hcoin to the moon
+Hcoin to the moon
+
+Security guarded by the most advanced encrypt technology
+
+No one can take wealth away from you
+
+Stable Coin, Floating Coin, Unparalleled design under the heaven
+
+20% gold reserve attaches to the value
+
+Destroy the machine that suck you to dry
+
+Never be money slavers again
+
+Himalaya Federal Reserve welcomes you forever
+
+The brilliant future- Himalaya Coin
+
+welcome to the world
+to the new world
+welcome to the world
+Hcoin to the moon
+
+welcome to the world
+to the new world
+welcome to the world
+Hcoin to the moon
+
+
+Hcoin to the moon
+
+source: https://lyricsondemand.com/m/milesguolyrics/hcointothemoonlyrics.html

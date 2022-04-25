@@ -42,19 +42,19 @@ project_entries:
 
 
 footer_entries:
-  - title: home
+  - title: Home
     url: https://hcntomoon.github.io
 
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/hcntomoon
 
-  - title: github
+  - title: Github
     url: https://github.com/hcntomoon
 
-  - title: gettr
+  - title: Gettr
     url: https://gettr.com/user/hcntomoon
 
-  - title: discord server
+  - title: DiscordServer
     url: https://discord.gg/HPR3Sfds3a
 
 misc_entries:

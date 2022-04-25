@@ -54,6 +54,9 @@ footer_entries:
   - title: gettr
     url: https://gettr.com/user/hcntomoon
 
+  - title: discord server
+    url: https://discord.gg/HPR3Sfds3a
+
 misc_entries:
   - title: this is an example vertical list
     url: false

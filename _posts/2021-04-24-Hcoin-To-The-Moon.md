@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## 歌曲MUSIC《Hcoin To The Moon》（视频MV、歌词Lyrics）
+## 《Hcoin To The Moon》（视频MV、歌曲音乐MUSIC、歌词Lyrics）
 
 * 演唱：Miles Guo
 * 作词：威廉王
@@ -10,8 +10,11 @@ layout: post
 * 编曲：SFG
 
 
->  [Hcoin to the Moon歌曲Youtube链接](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
-
+> Youtube Video油管视频MV链接： [Hcoin to the Moon](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
+>
+> Amazon Music亚马逊音乐链接： [Hcoin to the Moon](https://www.amazon.com/s?k=Miles+Guo+Hcoin+To+The+Moon&i=digital-music&linkCode=ur2/){:target="_blank"} 
+>
+> Apple Music苹果音乐：搜索“Hcoin To the Moon”
 -----
 ### *Hcoin To The Moon歌词(中文+英文)* 
 
@@ -120,4 +123,3 @@ Hcoin to the moon
 
 Hcoin to the moon
 
-source: https://lyricsondemand.com/m/milesguolyrics/hcointothemoonlyrics.html

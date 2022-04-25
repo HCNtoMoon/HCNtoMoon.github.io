@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## 歌曲 《Hcoin To The Moon》
+## 歌曲  Hcoin To The Moon （视频MV、歌词Lyrics）
 
 * 演唱：Miles Guo
 * 作词：威廉王
@@ -10,9 +10,10 @@ layout: post
 * 编曲：SFG
 
 
-[Hcoin to the Moon歌曲Youtube链接](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
+>  [Hcoin to the Moon歌曲Youtube链接](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
 
-*Hcoin To The Moon歌词(中文+英文)* 
+-----
+### *Hcoin To The Moon歌词(中文+英文)* 
 
 自由 多么熟悉的字眼  
 却不知不觉 离我越来越遥远  
@@ -65,7 +66,7 @@ Hcoin to the moon
 Hcoin to the moon  
 
 -----
-*纯英文版歌词 Hcoin To The Moon Lyrics* 
+### *纯英文版歌词 Hcoin To The Moon Lyrics* 
 
 
 Freedom sounds familiar to me

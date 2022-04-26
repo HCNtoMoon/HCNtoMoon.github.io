@@ -39,6 +39,12 @@ project_entries:
     desc: 中国国内发生的社会新闻、世界新闻
     highlight: NEW
 
+  - title: 【喜币小白指南】
+    url: 喜币小白指南
+    desc: 喜币新手必看，名词解释，喜币淘金指南系列
+    highlight: 
+    
+   
   - title: 【更新日志】
     url: 网站更新日志
     desc: 记录本网站的更新日志

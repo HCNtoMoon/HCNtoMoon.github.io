@@ -21,7 +21,7 @@ project_entries:
     
   - title: 歌曲《Hcoin To The Moon》
     url: hcoin-to-the-moon
-    desc: 歌曲MUSIC《Hcoin To The Moon》（视频MV、歌词Lyrics）
+    desc: 视频MV、中文和全英文版歌词
     highlight: 
     
   - title: 【金融新闻】
@@ -31,7 +31,7 @@ project_entries:
     
   - title: 【区块链新闻】
     url: 区块链新闻
-    desc: 未来是区块链的时代，未来是数字货币的时代
+    desc: 币圈新闻动态、区块链、数字货币
     highlight: NEW
 
   - title: 【社会新闻】

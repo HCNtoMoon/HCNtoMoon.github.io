@@ -39,6 +39,7 @@ theme_config:
       # title_misc_list: Details
     title_blog: 最新文章
     
+home_post_limit: 7
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

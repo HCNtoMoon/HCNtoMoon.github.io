@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/blob/main/img-folder/rocket_1f680.png" width="10%">
+  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/blob/gh-pages/img-folder/rocket_1f680.png" width="10%">
 </p>
 
 

@@ -7,7 +7,7 @@ title: About
 
 ![喜币上月球图](/images/HCNtoMoon.jpg "喜币上月球图")
 
-**[喜币上月球](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的网站，完全免费。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于喜币~**
+**[喜币上月球] https://hcntomoon.github.io/ 是一个完全由喜币爱好者创建的网站，完全免费。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于喜币~**
 
 喜币交流Discord群的邀请链接：[https://discord.gg/HPR3Sfds3a](https://discord.gg/HPR3Sfds3a){:target="_blank"}  ，链接永久有效，欢迎大家加入！
 

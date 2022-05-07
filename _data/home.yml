@@ -11,12 +11,12 @@ navbar_entries:
 project_entries:
   - title: 【喜币大事记】
     url: 喜币大事记
-    desc: 记载喜币一路走来发生的大事，同时展望未来，期待将要发生的事
+    desc: 记载喜币发生的大事件，同时展望未来，期待将要发生的大事
     highlight: TOP
 
   - title: 【北美健身教练】
     url: 北美健身教练
-    desc: 北美健身教练讲喜币、喜美元和喜联储，今天你健身了吗？
+    desc: 七哥讲喜币、喜美元、喜联储和喜支付，今天你健身了吗？
     highlight: HOT
     
   - title: 歌曲《Hcoin To The Moon》
@@ -26,7 +26,7 @@ project_entries:
     
   - title: 【金融新闻】
     url: 金融新闻
-    desc: 分享全球财经消息，包含外汇、股市（A股、港股、美股）、期货（黄金、原油）等
+    desc: 分享全球财经消息，外汇、股市（A股、港股、美股）、期货（黄金、原油）消息
     highlight: NEW
     
   - title: 【区块链新闻】
@@ -36,12 +36,12 @@ project_entries:
 
   - title: 【社会新闻】
     url: 社会新闻
-    desc: 重点关注中国墙内发生的社会新闻、老百姓民生、疫情、封控等，还会关注世界社会新闻
+    desc: 重点关注中国墙内发生的社会新闻、老百姓民生、疫情、封控等，同时还有世界社会新闻
     highlight: NEW
 
   - title: 【喜币新手指南】
     url: 喜币新手指南
-    desc: 小白必看的喜币新手指南，名词解释，喜币淘金指南系列
+    desc: 小白必看的喜币新手指南，各种名词解释，喜币淘金指南系列
     highlight: 
     
   - title: 【翻墙后看什么】
@@ -51,7 +51,7 @@ project_entries:
  
   - title: 【更新日志】
     url: 网站更新日志
-    desc: 记录本网站的更新日志
+    desc: 喜币上月球（HCN to Moon）网站的更新日志
 
 
 

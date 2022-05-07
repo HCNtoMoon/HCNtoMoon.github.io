@@ -59,15 +59,21 @@ project_entries:
 footer_entries:
   - title: Home
     url: https://hcntomoon.github.io
-
+    
+  - title: Github
+    url: https://github.com/hcntomoon
+    
   - title: Twitter
     url: https://twitter.com/hcntomoon
 
-  - title: Github
-    url: https://github.com/hcntomoon
-
   - title: Gettr
     url: https://gettr.com/user/hcntomoon
+    
+  - title: Youtube
+    url: https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw
+
+  - title: Reddit
+    url: https://www.reddit.com/user/HCNtoMoon    
 
   - title: DiscordServer
     url: https://discord.gg/HPR3Sfds3a

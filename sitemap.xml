@@ -22,6 +22,7 @@
       <changefreq>monthly</changefreq>
 
       <priority>0.8</priority>
+	  
    </sitemap>
 
    <sitemap>
@@ -46,6 +47,33 @@
 
       <lastmod>2022-05-07</lastmod>
 
+   </sitemap>
+
+    <sitemap>
+
+      <loc>https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB</loc>
+
+      <lastmod>2022-05-07</lastmod>
+	  
+	  
+   </sitemap>
+
+    <sitemap>
+
+      <loc>https://hcntomoon.github.io/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%96%B0%E9%97%BB</loc>
+
+      <lastmod>2022-05-07</lastmod>
+	  
+	  
+   </sitemap>
+
+    <sitemap>
+
+      <loc>https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB</loc>
+
+      <lastmod>2022-05-07</lastmod>
+	  
+	  
    </sitemap>
    
     <sitemap>
@@ -75,5 +103,7 @@
       <priority>0.1</priority>
 	  
    </sitemap>
+   
+   
    
 </sitemapindex>

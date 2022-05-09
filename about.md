@@ -7,7 +7,7 @@ title: About
 
 **立足喜币，专注金融，放眼全球，展望未来！**
 
-**[喜币上月球 HCN to Moon](https://himalaya.exchange/trading/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
+**[喜币上月球 HCN to Moon](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
 喜币交流Discord群的邀请链接：[https://discord.gg/HPR3Sfds3a](https://discord.gg/HPR3Sfds3a){:target="_blank"}  ，链接永久有效，欢迎大家加入，畅所欲言，拥有喜币的生活无限美好！
 

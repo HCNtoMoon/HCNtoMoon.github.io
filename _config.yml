@@ -8,13 +8,7 @@ description: > # description of the site (multiple lines allowed)
   喜币上月球HCNtoMoon是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
   
 
-keywords: "喜币上月球, HCNtoMoon, 喜币, 上月球,HCN to Moon"
-
-
-
-
-
-
+keywords: "喜币上月球,HCNtoMoon, 喜币,上月球,HCN to Moon"
 
 
 
@@ -28,7 +22,7 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "go back.." # customize text for homepage link in post layout
+  back_home_text: "回首页.." # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 关于喜币上月球网站
+title: 关于
 categories: 本网站
 tags: [关于本网站, 关于, About]
 ---
+### 关于本网站
+
 
 ![喜币上月球 HCN to Moon图片](/images/HCNtoMoon.jpg "喜币上月球")
 
@@ -36,4 +38,3 @@ tags: [关于本网站, 关于, About]
 - 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
 - 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Github](https://github.com/HCNtoMoon)
 - 👯 Group Chat:  [DiscordServer](https://discord.gg/HPR3Sfds3a) 
-

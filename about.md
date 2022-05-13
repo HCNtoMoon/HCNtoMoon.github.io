@@ -1,6 +1,8 @@
 ---
 layout: post
-title: About
+title: 关于喜币上月球网站
+categories: 本网站
+tags: [关于本网站, 关于, About]
 ---
 
 ![喜币上月球 HCN to Moon图片](/images/HCNtoMoon.jpg "喜币上月球")

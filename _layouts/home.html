@@ -26,8 +26,8 @@ layout: default
   {% include vertical_list.html collection=site.data.home.misc_entries %}
 {% endif %}
 
-{% if site.theme_config.show_blog == true %}
-  <h2>{{ site.theme_config.home.title_blog }}</h2>
+{% if site.theme_config.show_article == true %}
+  <h2>{{ site.theme_config.home.title_article }}</h2>
   {% include post_list.html %}
 {% endif %}
 

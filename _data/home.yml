@@ -4,7 +4,7 @@ navbar_entries:
     url: https://hcntomoon.github.io
     
   - title: 文章
-    url: blog
+    url: article
     
   - title: 关于
     url: about

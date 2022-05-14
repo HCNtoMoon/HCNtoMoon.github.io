@@ -5,6 +5,11 @@
   <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/blob/gh-pages/img-folder/rocket_1f680.png" width="10%">
 </p>
 
+<p align="center">
+  <img src="/img-folder/rocket_1f680.png" width="10%">
+</p>
+
+
 ![喜币上月球 HCN to Moon图片](/images/about/HCNtoMoon.jpg "喜币上月球")
 
 - 🔭 I’m a HCN supporter absolutely. No Doubt. My goal: Moon! 

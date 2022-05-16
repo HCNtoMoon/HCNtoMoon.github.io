@@ -45,7 +45,7 @@
   <img src="https://profile-counter.glitch.me/hcntomoon/count.svg" />
 </p>
 
-
+<a href="https://www.youtube.com/shorts/RSnNU_QbmG0"><p align="center"><img src="/images/about/HCNtoMoon_logo_O.png" width="10%"></p></a>
 
 
 **立足喜币，专注金融，放眼全球，展望未来！**

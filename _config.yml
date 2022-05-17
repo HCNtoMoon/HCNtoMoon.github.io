@@ -11,7 +11,6 @@ description: > # description of the site (multiple lines allowed)
 keywords: "喜币上月球,HCNtoMoon, 喜币,上月球,HCN to Moon"
 
 
-
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -39,14 +38,21 @@ theme_config:
     title_projects: 重点内容
       # title_misc_list: Details
     title_article: 最新文章
-    
-
 
 
 highlighter: rouge
 
 sass:
   style: :compressed
+
+
+plugins:
+ - jekyll-titles-from-headings
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
 
 plugins:
   - jekyll-feed

@@ -8,7 +8,7 @@ description: > # description of the site (multiple lines allowed)
   喜币上月球HCNtoMoon是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
   
 
-keywords: "喜币上月球,HCNtoMoon, 喜币,上月球,HCN to Moon"
+keywords: "喜币上月球,HCNtoMoon,喜币,上月球,HCN to Moon"
 
 
 permalink: /:slug
@@ -28,11 +28,13 @@ theme_config:
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
+  
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_article: true # show article posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  
   # options for "home" page
   home:
     title_projects: 重点内容
@@ -45,20 +47,13 @@ highlighter: rouge
 sass:
   style: :compressed
 
-
-
-
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-
 google_analytics:
   - G-E5VVCWR37F # New GA4 property
-  
-  
   
 
 # A Jekyll plugin to pull the page title from the first Markdown heading when none is specified.

@@ -49,15 +49,12 @@ project_entries:
   - title: 【翻墙后看什么】
     url: 翻墙后看什么
     desc: 墙外网址导航，被中国国家防火墙（GFW）封锁的中文资源推荐
-    highlight:  
+    highlight: HOT
  
   - title: 【更新日志】
     url: 网站更新日志
     desc: 喜币上月球（HCN to Moon）网站的更新日志
-
-
-
-
+    
 footer_entries:
   - title: Home
     url: https://hcntomoon.github.io

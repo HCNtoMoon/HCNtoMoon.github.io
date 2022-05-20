@@ -63,3 +63,8 @@ titles_from_headings:
   enabled: true
   strip_title: true
   collections: true
+  
+  
+# TEST home page limit
+home_post_limit: 7
+  

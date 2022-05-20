@@ -67,4 +67,5 @@ titles_from_headings:
   
 # TEST home page limit
 home_post_limit: 7
-  
+
+# TEST navilink( add file  includes\navilink.html, add code includes\head.html, add file   assets\css\override.css )

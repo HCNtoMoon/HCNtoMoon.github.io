@@ -1,15 +1,14 @@
 ---
 layout: default
-title: 所有文章
+title: 喜币上月球网站所有文章 
 ---
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 
-<header>
-  <h1 align="center">{{ site.title }}</h1>
-</header>
+<h1 align="center">所有文章（按标签分类）</h1>
+
+<p align="right"><a href="/archive-date.html">切换为按时间排序</a></p>
 
 
-<a href="/archive-date.html">Sort by date</a>
 
 {% for tag in site.tags %}
 <h3>{{- tag[0] -}}</h3>

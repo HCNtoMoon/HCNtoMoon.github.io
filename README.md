@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="/img-folder/rocket_1f680.png" width="10%">
+  <img src="/images/rocket_1f680.png" width="10%">
 </p>
 
 

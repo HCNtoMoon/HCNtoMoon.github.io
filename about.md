@@ -1,6 +1,5 @@
 ---
-layout: post
-title: 关于
+layout: default
 categories: 本网站
 tags: [关于本网站, 关于, About]
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: 喜币
 ---
 
 ## 《Hcoin To The Moon》（视频MV、歌曲音乐MUSIC、歌词Lyrics）

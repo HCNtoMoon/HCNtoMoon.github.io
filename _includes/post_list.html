@@ -1,15 +1,11 @@
-<a href="/archive-date.html">Sort by date</a>
-
-{% for tag in site.tags %}
-<h3>{{- tag[0] -}}</h3>
-<ul>
-  {%- for post in tag[1] %}
-  <li class="post-list-item">
-   <span class="home-date">
+ <ul>
+    {% for post in site.posts %}
+      <li class="post-list-item">
+        <span class="home-date">
           {{ post.date | date: site.theme_config.date_format }}»
-   </span>
-  <a href="{{ post.url | relative_url  }}">{{ post.date | date: "%b %Y" }} - {{ post.title }}</a>
-  </li>
-  {%- endfor %}
-</ul>
-{%- endfor %}
+        </span>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

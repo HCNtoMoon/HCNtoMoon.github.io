@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
 categories: 本网站
 tags: [关于本网站, 关于, About]
 ---
+
+
 ### 关于本网站
 
 
@@ -22,6 +24,9 @@ tags: [关于本网站, 关于, About]
 
 **HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
+---------------------
+### 本网站更新日志
+[喜币上月球网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 ---------------------
 ### KEYWORDS
 

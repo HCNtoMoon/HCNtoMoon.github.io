@@ -31,25 +31,24 @@ tags: [关于本网站, 关于, About]
 [喜币上月球网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 
+### 关键词 Keywords
+
+HCN、喜币、HDO、喜美元、HPAY、喜支付、Himalaya Exchange、喜交所、喜联储、稳定币、浮动币、Blockchain、区块链、Bitcoin、比特币、ETH、以太坊、Digital Currency、数字货币、DeFi、GameFi、加密货币、虚拟货币、Coinbase、Metaverse、元宇宙、NFT、非同质化代币、摩根家族、SWIFT、美联储、USDT、 
+喜币上月球、HCNtoMoon、币圈新闻、金融新闻、北美健身教练、股市、
+币安、Binance
+
 
 ### 关于我 About me
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
-> [司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、不张扬，笑到最后是我的人生法则！
+> 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、大局观、广交朋友、不张扬，笑到最后是我的人生法则！
 
-- 🔭 I’m a HCN supporter absolutely. No Doubt. My goal: Moon! 
+- 🔭 I’m a HCN supporter absolutely. No doubt. My goal: Moon! 
 - 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
 - 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Github](https://github.com/HCNtoMoon)
 - 👯 Group Chat:  [DiscordServer](https://discord.gg/HPR3Sfds3a) 
 
 
-
-### 关键词 KEYWORDS
-
-> 关键词：HCN、喜币、HDO、喜美元、HPAY、喜支付、Himalaya Exchange、喜交所、喜联储、稳定币、浮动币、Blockchain、区块链、Bitcoin、比特币、ETH、以太坊、Digital Currency、数字货币、DeFi、GameFi、加密货币、虚拟货币、Coinbase、Metaverse、元宇宙、NFT、非同质化代币、摩根家族、SWIFT、美联储、USDT、 
-喜币上月球、HCNtoMoon、币圈新闻、金融新闻、北美健身教练、股市、
-币安、Binance
-
-### 答谢
-感谢所有向本站做出贡献的提交者、作者、翻译和其他贡献者。
+### 答谢 Thanks
+感谢所有向本站做出贡献的人，Thank you~

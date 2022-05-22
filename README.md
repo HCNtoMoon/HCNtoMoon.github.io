@@ -1,9 +1,6 @@
 ### Hi there, I’m [HCNtoMoon](https://hcntomoon.github.io/) 👋 
 
 
-<p align="center">
-  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/blob/gh-pages/image/rocket_1f680.png" width="10%">
-</p>
 
 <p align="center">
   <img src="/images/rocket_1f680.png" width="10%">

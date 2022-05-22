@@ -37,7 +37,7 @@ tags: [关于本网站, 关于, About]
 #HCN #喜币 #HDO #喜美元 #HPAY 
 #喜支付 #HimalayaExchange #喜交所 
 #喜联储 #稳定币 #浮动币 #Blockchain 
-#区块链 #Bitcoin #比特币 #ETH #以太坊 #Digital Currency 
+#区块链 #Bitcoin #比特币 #ETH #以太坊 #DigitalCurrency 
 #数字货币 #DeFi #GameFi #加密货币 #虚拟货币 
 #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 
 #摩根家族 #SWIFT #美联储 #USDT 

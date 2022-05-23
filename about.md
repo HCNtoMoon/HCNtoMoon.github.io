@@ -6,7 +6,7 @@ tags: [关于本网站, 关于, About]
 
 ## 关于 喜币上月球
 
-### 关于本站
+### 关于本站 About website
 
 ![喜币上月球 HCN to Moon图片](/images/about/HCNtoMoon.jpg "喜币上月球")
 
@@ -58,6 +58,8 @@ tags: [关于本网站, 关于, About]
 - 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Github](https://github.com/HCNtoMoon)
 - 👯 Group Chat:  [DiscordServer](https://discord.gg/HPR3Sfds3a) 
 
+
+[《喜币上月球》洗脑神曲](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} 
 
 ### 答谢 Thanks
 感谢所有向本站做出贡献的人，Thank you~

@@ -3,7 +3,7 @@ layout: post
 tags: 喜币
 ---
 
-## 《Hcoin To The Moon》（视频MV、歌曲音乐MUSIC、歌词Lyrics）
+## Hcoin To The Moon（MV、音乐、歌词）
 
 * 演唱：Miles Guo
 * 作词：威廉王
@@ -11,11 +11,22 @@ tags: 喜币
 * 编曲：SFG
 
 
-> Youtube Video油管视频MV链接： [Hcoin to the Moon](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
->
-> Amazon Music亚马逊音乐链接： [Hcoin to the Moon](https://www.amazon.com/s?k=Miles+Guo+Hcoin+To+The+Moon&i=digital-music&linkCode=ur2/){:target="_blank"} 
->
-> Apple Music苹果音乐：搜索“Hcoin To the Moon”  
+Youtube Video油管视频MV链接:  [Hcoin to the Moon](https://www.youtube.com/watch?v=vgof8s0ahxE/){:target="_blank"} 
+
+
+Amazon Music亚马逊音乐链接:  [Hcoin to the Moon](https://www.amazon.com/s?k=Miles+Guo+Hcoin+To+The+Moon&i=digital-music&linkCode=ur2/){:target="_blank"} 
+
+Apple Music苹果音乐: https://music.apple.com/au/album/hcoin-to-the-moon-single/1592902212
+
+Spotfy: https://open.spotify.com/track/6KulvDaScetXfNSlCDQEPH
+
+Youtube: https://music.youtube.com/playlist?list=OLAK5uy_lrqEcUy_X8rZAs5VjK-HTFvekQTZkvk7E
+
+Amazon: https://www.amazon.com/gp/product/B09KQWL7HG
+
+gyro.to: https://gyro.to/HcoinToTheMoonKaraokeVersion
+
+
 
 -----
 

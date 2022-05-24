@@ -53,6 +53,11 @@ tags: [关于本网站, 关于, About]
 
 > 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、大局观、广交朋友、不张扬，笑到最后是我的人生法则！
 
+
+关注我：推特 [Twitter](https://twitter.com/HCNtoMoon) 、盖特[Gettr](https://gettr.com/user/hcntomoon) 、油管频道[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
+
+
+
 - 🔭 I’m a HCN supporter absolutely. No doubt. My goal: Moon! 
 - 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
 - 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Github](https://github.com/HCNtoMoon)

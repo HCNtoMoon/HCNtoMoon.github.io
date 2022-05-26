@@ -59,9 +59,6 @@ footer_entries:
   - title: Home
     url: https://hcntomoon.github.io
     
-  - title: Github
-    url: https://github.com/hcntomoon
-    
   - title: Twitter
     url: https://twitter.com/hcntomoon
 
@@ -77,8 +74,8 @@ footer_entries:
   - title: DiscordServer
     url: https://discord.gg/HPR3Sfds3a
     
-  - title: feed
-    url: feed.xml
+  - title: Github
+    url: https://github.com/hcntomoon
 
 misc_entries:
   - title: this is an example vertical list

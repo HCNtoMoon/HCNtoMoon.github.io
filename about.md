@@ -36,7 +36,7 @@ tags: [关于本网站, 关于, About]
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
 #HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 
-#稳定币 #浮动币 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 
+#Stablecoin #稳定币 #浮动币 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 
 #DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 
 #Bitcoin #比特币 #ETH #以太坊 #币圈 #币圈新闻 #金融新闻 #北美健身教练 #股市 #摩根家族 #SWIFT #美联储 #沼泽地 
 #币安 #Binance #USDT #躺平币 

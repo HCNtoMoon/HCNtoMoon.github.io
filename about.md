@@ -24,6 +24,7 @@ tags: [关于本网站, 关于, About]
 
 **HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
+“喜币上月球”是一个流行的加密货币广告语。“HCN goes to the moon”is a popular crypto catchphrase. 
 
 ### 网站更新日志 Website update log
 
@@ -49,7 +50,7 @@ tags: [关于本网站, 关于, About]
 
 > 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、隐忍、大局观、不张扬、执行力、广交朋友、文武兼备，笑到最后是我的人生法则！
 
-关注我：推特 [Twitter](https://twitter.com/HCNtoMoon) 、盖特[Gettr](https://gettr.com/user/hcntomoon) 、油管频道[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
+关注我：推特 [Twitter](https://twitter.com/HCNtoMoon) 、盖特[Gettr](https://gettr.com/user/hcntomoon) 、Youtube频道[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
 
 
 

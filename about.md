@@ -24,8 +24,9 @@ tags: [关于本网站, 关于, About]
 
 **HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
-“喜币上月球”是一个流行的加密货币广告语。“HCN goes to the moon”is a popular crypto catchphrase. 
+“喜币上月球”是一个流行的加密货币广告语。“HCN goes to the moon”is a popular crypto catchphrase.  
 
+今天你Google搜索“喜币上月球”了吗？
 
 ### 网站更新日志 Website update log
 

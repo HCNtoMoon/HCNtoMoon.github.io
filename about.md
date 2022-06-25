@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: 本网站
-tags: [关于本网站, 关于, About]
+tags: 关于本站
 ---
 
 ## 关于 喜币上月球
@@ -14,19 +14,17 @@ tags: [关于本网站, 关于, About]
 
 **[喜币上月球 HCN to Moon](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
-
-**“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！**
-
-**喜币在手，天下我有！一币拥有，人生何求！喜币恒久远，一币永流传！**
-
 **喜币上月球，岂止于月球，我的征途是星辰大海！**
 
 **HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
-“喜币上月球”是一个流行的加密货币广告语。“HCN goes to the moon”is a popular crypto catchphrase.  
+**喜币在手，天下我有！一币拥有，人生何求！喜币恒久远，一币永流传！**
 
-今天你Google搜索“喜币上月球”了吗？
+**“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！今天你Google搜索“喜币上月球”了吗？**
+
+**坚持正道，一往无前，回顾历史，展望未来，活在当下，喜币上月球，因为专业，所以卓越！**
+
+喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
 ### 网站更新日志 Website update log
 
@@ -38,11 +36,12 @@ tags: [关于本网站, 关于, About]
 
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
-#HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 
-#Stablecoin #稳定币 #浮动币 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 
-#DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 
-#Bitcoin #比特币 #ETH #以太坊 #币圈 #币圈新闻 #金融新闻 #北美健身教练 #股市 #摩根家族 #SWIFT #美联储 #沼泽地 
-#币安 #Binance #USDT #躺平币 
+#HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
+#Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 #Bitcoin #比特币 #ETH #以太坊 #币圈 #币圈新闻 //区块链新闻的标签
+#投资 #理财 #财经新闻 #FinanceNews #金融新闻 #股市 #股票 //金融新闻的标签
+#DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 #币安 #Binance #USDT
+#摩根家族 #罗斯柴尔德家族 #沼泽地 #美联储 #光明会 #共济会 #骷髅会 //神秘的沼泽地
+#北美健身教练 #SWIFT  
 ```
 
 

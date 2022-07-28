@@ -37,8 +37,8 @@ tags: 关于本站
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
 #HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
-#Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 #Bitcoin #比特币 #ETH #以太坊 #币圈 #币圈新闻 //区块链新闻的标签
-#投资 #理财 #财经新闻 #FinanceNews #金融新闻 #股市 #股票 //金融新闻的标签
+#币圈 #币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 #Bitcoin #比特币 #ETH #以太坊 //区块链新闻的标签
+#金融 #金融新闻 #投资 #理财 #财经新闻 #FinanceNews #股市 #股票 //金融新闻的标签
 #DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 #币安 #Binance #USDT
 #摩根家族 #罗斯柴尔德家族 #沼泽地 #美联储 #光明会 #共济会 #骷髅会 //神秘的沼泽地
 #北美健身教练 #SWIFT  

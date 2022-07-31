@@ -4,7 +4,7 @@ categories: 本网站
 tags: 关于本站
 ---
 
-## 关于 喜币上月球
+## 关于喜币上月球（HCNtoMoon）
 
 ### 关于本站 About website
 
@@ -12,7 +12,7 @@ tags: 关于本站
 
 **立足喜币，专注金融，放眼全球，展望未来！**
 
-**[喜币上月球 HCN to Moon](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
+**[喜币上月球（HCNtoMoon）](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
 **喜币上月球，岂止于月球，我的征途是星辰大海！**
 
@@ -29,7 +29,7 @@ tags: 关于本站
 ### 网站更新日志 Website update log
 
 
-[喜币上月球网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+[喜币上月球（HCNtoMoon）网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 
 ### 关键词 Keywords
@@ -63,5 +63,16 @@ tags: 关于本站
 
 [《喜币上月球》洗脑神曲](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} 
 
+
+
 ### 答谢 Thanks
 感谢所有向本站做出贡献的人，Thank you~
+
+### 免责声明 Disclaimer
+虽然我努力使信息保持最新和正确，但我不对喜币上月球网站中包含的信息的完整性、准确性或可靠性作出任何形式的明示或暗示的陈述或保证。您对此类信息的任何依赖均由您自行负责。本网站没有任何喜联储的从属关系、批准或背书。
+
+### 隐私政策 Privacy Policy
+本网站不会收集任何人的个人信息。
+
+### 版权 Copyright
+版权所有 ©HCNtoMoon。保留所有权利。

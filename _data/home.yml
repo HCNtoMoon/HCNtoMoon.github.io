@@ -55,6 +55,10 @@ project_entries:
     url: 网站更新日志
     desc: 喜币上月球（HCNtoMoon）网站的更新日志
     
+  - title: 【我的黑名单】
+    url: 黑名单
+    desc: 我的黑名单，骗子名单、伪类名单
+    
 footer_entries:
   - title: Home
     url: https://hcntomoon.github.io

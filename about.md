@@ -6,7 +6,7 @@ tags: 关于本站
 
 ## 关于喜币上月球（HCNtoMoon）网站
 
-### 关于本站 About website
+### 关于本站 About website🚀
 
 ![喜币上月球 HCN to Moon图片](/images/about/HCNtoMoon.jpg "喜币上月球")
 
@@ -26,7 +26,7 @@ tags: 关于本站
 
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
-### 关于我 About me
+### 关于我 About me🌕
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
@@ -47,13 +47,13 @@ tags: 关于本站
 
 
 
-### 网站更新日志 Website update log
+### 网站更新日志 Website update log✨
 
 
 [喜币上月球（HCNtoMoon）网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 
-### 关键词 Keywords
+### 关键词 Keywords#️⃣
 
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
@@ -67,14 +67,14 @@ tags: 关于本站
 
 
 
-### 答谢 Thanks
+### 答谢 Thanks💖
 感谢所有向本站做出贡献的人，Thank you~
 
-### 免责声明 Disclaimer
+### 免责声明 Disclaimer📢
 虽然我努力使信息保持最新和正确，但我不对喜币上月球（HCNtoMoon）网站中包含的信息的完整性、准确性或可靠性作出任何形式的明示或暗示的陈述或保证。您对此类信息的任何依赖均由您自行负责。本网站没有任何喜联储的从属关系、批准或背书。
 
-### 隐私政策 Privacy Policy
+### 隐私政策 Privacy Policy⚠️
 本网站不会收集任何人的个人信息。
 
-### 版权 Copyright
-版权所有 ©HCNtoMoon。保留所有权利。
+### 版权 Copyright©
+版权所有 ©喜币上月球 HCNtoMoon。保留所有权利。

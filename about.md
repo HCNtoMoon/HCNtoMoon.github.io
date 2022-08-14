@@ -28,6 +28,10 @@ tags: 关于本站
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
 
+[我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
+
+[翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88)
+
 ### 网站更新日志 Website update log✨ 
 
 [喜币上月球（HCNtoMoon）网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
@@ -52,6 +56,8 @@ tags: 关于本站
 
 ### 关键词 Keywords📱
 
+> 常用标签 #喜币上月球 #HCNtoMoon #利好喜币 
+
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
 #HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
@@ -59,12 +65,12 @@ tags: 关于本站
 #金融 #金融新闻 #投资 #理财 #财经新闻 #FinanceNews #股市 #股票 //金融新闻的标签
 #DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 #币安 #Binance #USDT
 #摩根家族 #罗斯柴尔德家族 #沼泽地 #美联储 #光明会 #共济会 #骷髅会 //神秘的沼泽地
-#北美健身教练 #SWIFT  
+#北美健身教练 #SWIFT  #利好喜币
 ```
 
-### 黑名单 blacklist㊙️
 
-[我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
+
+
 
 ### 关于大直播速记ℹ️
 大直播速记讲究的就是快！快！快！每隔一段时间会对历史久远的速记进行归档。

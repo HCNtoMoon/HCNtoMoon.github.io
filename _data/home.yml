@@ -31,8 +31,8 @@ project_entries:
     desc: 分享全球财经消息，外汇、股市（A股、港股、美股）、期货（黄金、原油）消息
     highlight: NEW
     
-  - title: 【区块链新闻】
-    url: 区块链新闻
+  - title: 【币圈新闻】
+    url: 币圈新闻
     desc: 币圈新闻动态、区块链、数字货币
     highlight: NEW
 

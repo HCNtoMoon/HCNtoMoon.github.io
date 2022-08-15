@@ -28,6 +28,9 @@ tags: 关于本站
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
 
+
+每隔一段时间会对历史久远的速记进行归档。
+
 [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 
 [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88)
@@ -70,10 +73,6 @@ tags: 关于本站
 
 
 
-
-
-### 关于大直播速记ℹ️
-大直播速记讲究的就是快！快！快！每隔一段时间会对历史久远的速记进行归档。
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~

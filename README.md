@@ -7,7 +7,7 @@
 </p>
 
 
-![喜币上月球 HCN to Moon图片](/images/about/HCNtoMoon.jpg "喜币上月球")
+![喜币上月球图片](/images/about/HCNtoMoon.jpg "喜币上月球")
 
 <a href="https://www.youtube.com/shorts/RSnNU_QbmG0" target="_blank"><p align="center"><img src="/images/about/HCNtoMoon_logo_O.png" width="10%"></p></a>
 
@@ -20,7 +20,7 @@
 
 **立足喜币，专注金融，放眼全球，展望未来！**
 
-**[喜币上月球（HCNtoMoon）](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
+**[喜币上月球(HCNtoMoon)](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
 **喜币上月球，岂止于月球，我的征途是星辰大海！**
 

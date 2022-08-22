@@ -75,6 +75,29 @@ tags: 关于本站
 
 
 
+<div id="htmldemo"></div>
+<style>
+#htmldemo{
+    height: 30px;
+    width: 30px;
+    background-color: #00aa9a;
+    animation-name: moveX;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode : both;
+}
+@keyframes moveX {
+    0%{
+        transform: translateX(0px);
+    }
+    100%{
+        transform: translateX(100px);
+    }
+}
+</style>
+
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~

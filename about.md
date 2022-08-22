@@ -80,9 +80,9 @@ tags: 关于本站
 #htmldemo{
     height: 30px;
     width: 30px;
-    background-color: #00aa9a;
+    background-color: #00ff7f;
     animation-name: moveX;
-    animation-duration: 1s;
+    animation-duration: 3s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     animation-direction: alternate;

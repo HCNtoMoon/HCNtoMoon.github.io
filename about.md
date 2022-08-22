@@ -75,34 +75,12 @@ tags: 关于本站
 
 
 
-<div id="htmldemo"></div>
-<style>
-#htmldemo{
-    height: 30px;
-    width: 30px;
-    background-color: #00ff7f;
-    animation-name: moveX;
-    animation-duration: 3s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    animation-fill-mode : both;
-}
-@keyframes moveX {
-    0%{
-        transform: translateX(0px);
-    }
-    100%{
-        transform: translateX(100px);
-    }
-}
-</style>
 
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~
 
-<iframe src="//music.163.com/outchain/player?type=2&id=28445796&auto=0&height=66" frameborder="0" width="100%" height="86px" ></iframe>
+
 
 ### 声明 Disclaimer📢
 1. 本网站不会收集任何人的个人信息。

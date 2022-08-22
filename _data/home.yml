@@ -51,9 +51,6 @@ project_entries:
     desc: 墙外网址导航，被中国国家防火墙（GFW）封锁的中文资源推荐
     highlight: HOT
  
-  - title: 【更新日志】
-    url: 网站更新日志
-    desc: 喜币上月球(HCNtoMoon)网站的更新日志
     
   - title: 【我的黑名单】
     url: 黑名单
@@ -61,7 +58,7 @@ project_entries:
     highlight: RCMD
     
 footer_entries:
-  - title: Home
+  - title: Website
     url: https://hcntomoon.github.io
     
   - title: Twitter
@@ -76,7 +73,7 @@ footer_entries:
   - title: Reddit
     url: https://www.reddit.com/user/HCNtoMoon    
 
-  - title: DiscordServer
+  - title: Discord
     url: https://discord.gg/HPR3Sfds3a
     
   - title: Github

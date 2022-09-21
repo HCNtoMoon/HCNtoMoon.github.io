@@ -33,9 +33,7 @@ tags: 关于本站
 
 每隔一段时间会对历史久远的速记进行归档。
 
-[我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 
-[翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88)
 
 ### 网站更新日志 Website update log✨ 
 
@@ -74,13 +72,18 @@ tags: 关于本站
 #娱乐新闻 #翻墙新闻 #科技新闻
 ```
 
+### 长期更新的原创文章
 
+[我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
 
+[翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
 
+[关于场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
+
+[全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~
-
 
 
 ### 声明 Disclaimer📢

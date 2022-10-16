@@ -76,7 +76,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  moonwalk!
+  HCNtoMoon!
 
 BUNDLED WITH
    2.2.21

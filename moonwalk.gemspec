@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
-  spec.name          = "HCNtoMoon"
-  spec.version       = "1.0"
-  spec.authors       = ["HCNtoMoon"]
+  spec.name          = "moonwalk"
+  spec.version       = "0.1.1"
+  spec.authors       = ["Abhinav Saxena"]
   spec.summary       = "A excellent Jekyll theme."
   spec.homepage      = "https://hcntomoon.github.io/"
   spec.license       = "MIT"

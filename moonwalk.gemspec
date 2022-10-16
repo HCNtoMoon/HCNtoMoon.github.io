@@ -3,7 +3,7 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.1"
   spec.authors       = ["Abhinav Saxena"]
   spec.summary       = "A excellent Jekyll theme."
-  spec.homepage      = "https://hcntomoon.github.io/"
+  spec.homepage      = "https://github.com/abhinavs/moonwalk"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }

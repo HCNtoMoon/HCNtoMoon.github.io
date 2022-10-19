@@ -30,11 +30,6 @@ tags: 关于本站
 喜币上月球(HCNtoMoon)网站涵盖币圈新闻、金融新闻、社会新闻、娱乐新闻等。喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
 
-
-每隔一段时间会对历史久远的速记进行归档。
-
-
-
 ### 网站更新日志 Website update log✨ 
 
 [喜币上月球(HCNtoMoon)网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
@@ -45,11 +40,8 @@ tags: 关于本站
 
 [《喜币上月球》洗脑神曲](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} 
 
-> 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、隐忍、大局观、不张扬、执行力、广交朋友、文武兼备，笑到最后是我的人生法则！
+> 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、隐忍、大局观、不张扬、执行力、广交朋友、文武兼备，笑到最后是我的人生法则！喜币投资者，持续关注[喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}  ！我的口号是喜币上月球！关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
 
-> 喜币投资者，持续关注[喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93) ！我的口号是喜币上月球！
-
-> 关注我： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 
 - 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
@@ -74,13 +66,15 @@ tags: 关于本站
 
 ### 长期更新的原创文章 Long-term update
 
-[我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
+- [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
 
-[翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
+- [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
 
-[关于喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
+- [关于喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
 
-[全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
+- [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
+
+- 每隔一段时间会对历史久远的速记进行归档，请及时下载！
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~
@@ -90,3 +84,7 @@ tags: 关于本站
 - 本网站不会收集任何人的个人信息。
 - 我虽然努力使信息保持最新和正确，但不对喜币上月球(HCNtoMoon)网站中信息的完整性、准确性或可靠性作出任何形式的明示或暗示的陈述或保证。您对此类信息的任何依赖均由您自行负责，本网站不承担任何法律责任。本网站没有任何喜联储的从属关系、批准或背书。
 - Copyright©2022 hcntomoon.github.io All rights reserved. 喜币上月球 HCNtoMoon 版权所有 保留所有权利
+
+
+
+**收藏喜币上月球(HCNtoMoon)网站到浏览器收藏夹，永久地址 <https://hcntomoon.github.io/> ，点收藏不迷路！关注喜币上月球，带你上月球！**

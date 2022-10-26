@@ -9,23 +9,23 @@ tags: 关于本站
 
 ###  关于本站 About website🚀
 
-![喜币上月球 HCN to Moon图片](/images/about/HCNtoMoon.jpg "喜币上月球")
+![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")
 
 **立足喜币，专注金融，放眼全球，展望未来！**
 
 **[喜币上月球(HCNtoMoon)](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
-**喜币上月球，岂止于月球，我的征途是星辰大海！**
-
-**HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
-
-
+**喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
 **喜币在手，天下我有！一币拥有，人生何求！喜币恒久远，一币永流传！**
 
 **“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！今天你Google搜索“喜币上月球”了吗？**
 
 **坚持正道，一往无前，回顾历史，展望未来，活在当下，喜币上月球，因为专业，所以卓越！**
+
+**Moon或Mooning描述了当加密货币价格急剧上涨时，将价格推向月球（希望不会反弹！）。 “喜币即将登月”意味着喜币的价格正在飙升。Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefullynot back!). 'HCN is going to the Moon' means The price of HCN is soaring.**
+
+![MOON的含义图片](/images/about/MOON.jpg "MOON的含义")
 
 喜币上月球(HCNtoMoon)网站涵盖币圈新闻、金融新闻、社会新闻、娱乐新闻等。喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
@@ -74,7 +74,7 @@ tags: 关于本站
 
 - [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
-- 每隔一段时间会对历史久远的速记进行归档，请及时下载！
+- 注：每隔一段时间会对历史久远的速记进行归档，请及时下载！
 
 ### 答谢 Thanks💖 
 感谢所有向本站做出贡献的人，Thank you~
@@ -87,4 +87,4 @@ tags: 关于本站
 
 
 
-**收藏喜币上月球(HCNtoMoon)网站到浏览器收藏夹，永久地址 <https://hcntomoon.github.io/> ，点收藏不迷路！关注喜币上月球，带你上月球！**
+**收藏喜币上月球(HCNtoMoon)网站到浏览器收藏夹，永久地址 <https://hcntomoon.github.io/> ！关注喜币上月球(HCNtoMoon)，带你上月球！**

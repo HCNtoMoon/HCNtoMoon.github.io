@@ -40,7 +40,7 @@ tags: 关于本站
 
 [《喜币上月球》洗脑神曲](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} 
 
-> 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、隐忍、大局观、不张扬、执行力、广交朋友、文武兼备，笑到最后是我的人生法则！喜币投资者，持续关注[喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}  ！我的口号是喜币上月球！关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)
+> 爱香港爱台湾爱北美健身教练，熟读三国，[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"} 推崇者，欣赏他的稳重、隐忍、大局观、不张扬、执行力、广交朋友、文武兼备，笑到最后是我的人生法则！喜币投资者，持续关注[喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}  ！我的口号是喜币上月球！关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)。
 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 

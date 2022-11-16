@@ -16,7 +16,7 @@ favicon: "./logo.png" # relative path to site's favicon
 
 
 
-theme: moonwalk
+remote_theme: abhinavs/moonwalk
 
 
 theme_config:

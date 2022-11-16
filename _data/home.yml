@@ -58,7 +58,7 @@ project_entries:
     highlight: RCMD
     
 footer_entries:
-  - title: 喜币上月球(HCNtoMoon)网站首页
+  - title: 喜币上月球(HCNtoMoon)首页
     url: https://hcntomoon.github.io
     
   - title: 关于
@@ -84,5 +84,3 @@ footer_entries:
     
   - title: feed
     url: feed.xml
-
-

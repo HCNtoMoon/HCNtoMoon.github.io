@@ -79,9 +79,7 @@ footer_entries:
   - title: Github
     url: https://github.com/hcntomoon
     
-  - title: feed
-    url: feed.xml
-    
+
 
 misc_entries:
   - title: this is an example vertical list
@@ -96,6 +94,24 @@ misc_entries:
   - title: Atricle posts
     post_list: true
     url: true
+
+  - title: moonwalk on the Internet
+    url: true
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: true
+        entries:
+          - title: this is nested inside a nested list
+            url: true
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: true
 
 
 

@@ -15,8 +15,9 @@ permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 
 
-
-remote_theme: abhinavs/moonwalk
+baseurl: ""
+url: "https://hcntomoon.github.io"
+theme: moonwalk
 
 
 theme_config:

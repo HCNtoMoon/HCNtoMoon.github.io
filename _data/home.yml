@@ -13,7 +13,7 @@ navbar_entries:
 project_entries:
   - title: 【喜币大事记】
     url: 喜币大事记
-    desc: 记载喜币发生的大事件，同时展望未来，期待将要发生的大事
+    desc: 记载喜币发生的大事件，同时展望未来，期待将要发生的大事              
     highlight: TOP
 
   - title: 【北美健身教练】
@@ -58,9 +58,12 @@ project_entries:
     highlight: RCMD
     
 footer_entries:
-  - title: 喜币上月球(HCNtoMoon)网站
+  - title: 喜币上月球(HCNtoMoon)网站首页
     url: https://hcntomoon.github.io
     
+  - title: 关于
+    url: about  
+
   - title: Twitter
     url: https://twitter.com/hcntomoon
 
@@ -79,40 +82,7 @@ footer_entries:
   - title: Github
     url: https://github.com/hcntomoon
     
-
-
-misc_entries:
-  - title: this is an example vertical list
-    url: true
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: true
-
-  - title: and you can add data in _data/home.yml
-    url: true
-
-  - title: Atricle posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: true
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: true
-        entries:
-          - title: this is nested inside a nested list
-            url: true
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: true
-
-
+  - title: feed
+    url: feed.xml
 
 

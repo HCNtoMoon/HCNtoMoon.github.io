@@ -37,7 +37,7 @@ theme_config:
   # options for "home" page
   home:
     title_projects: 重点内容
-      # title_misc_list: Details
+    title_misc_list: 文章详情
     title_article: 最新文章
 
 

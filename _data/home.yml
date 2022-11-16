@@ -58,7 +58,7 @@ project_entries:
     highlight: RCMD
     
 footer_entries:
-  - title: Website
+  - title: 喜币上月球(HCNtoMoon)网站
     url: https://hcntomoon.github.io
     
   - title: Twitter
@@ -78,20 +78,24 @@ footer_entries:
     
   - title: Github
     url: https://github.com/hcntomoon
+    
+  - title: feed
+    url: feed.xml
+    
 
 misc_entries:
   - title: this is an example vertical list
-    url: false
+    url: true
 
   - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+    url: true
 
   - title: and you can add data in _data/home.yml
-    url: false
+    url: true
 
-  - title: Blog posts
+  - title: Atricle posts
     post_list: true
-    url: false
+    url: true
 
 
 

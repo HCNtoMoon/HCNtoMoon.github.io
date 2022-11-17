@@ -25,8 +25,7 @@ tags: 关于本站
 
 **喜币上月球，因为专业，所以卓越！喜币上月球，绝顶名千秋！人生何所求，喜币上月球！**
 
-喜币上月球(HCNtoMoon)网站涵盖币圈新闻、金融新闻、社会新闻、娱乐新闻等。喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！ :rocket: :full_moon:
-
+喜币上月球(HCNtoMoon)网站涵盖币圈新闻、金融新闻、社会新闻、娱乐新闻等。喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！ 🚀🌕
 
 ### 网站更新日志 Website update log✨ 
 

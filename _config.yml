@@ -1,5 +1,7 @@
 title: 喜币上月球(HCNtoMoon)
 author: HCNtoMoon
+baseurl: ""   
+# The baseurl setting is only used if your blog or website is not going to sit at the root of your domain name. For example, if your Jekyll website will be at https://myawesomeblog.com/, leave the baseurl blank. If your blog or website will be at http://myawesomecompany.com/blog/, enter /blog as the baseurl.
 url: https://hcntomoon.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   
@@ -7,10 +9,12 @@ description: > # description of the site (multiple lines allowed)
 
   喜币上月球(HCNtoMoon)网站是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 
+slogan: "喜币上月球，绝顶名千秋！人生何所求，喜币上月球！"
 
 keywords: "喜币上月球,HCNtoMoon,喜币,上月球,HCN to Moon"
 
-permalink: /:slug
+
+permalink: /:slug    # 永久链接
 
 favicon: "./logo.png" # relative path to site's favicon
 
@@ -30,7 +34,9 @@ titles_from_headings:
   enabled: true
   strip_title: true
   collections: true
+# 要安装 Jekyll插件，需要在两个地方添加插件名称。一个在_config.yml文件的plugins部分，第二个在Gemfile文件
 
+#如果你希望 Jekyll 在帖子准备好发布之前忽略它：published: false
 
 
 theme_config:
@@ -45,7 +51,7 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_article: true # show article posts added in _posts
-  show_old_projects: false # show old projects as cards, add in _data/home.yml
+  # show_old_projects: false # show old projects as cards, add in _data/home.yml
  
   show_reading_time: true # show number of words and reading time in the article posts
   # options for "home" page

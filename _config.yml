@@ -5,16 +5,17 @@ baseurl: ""
 url: https://hcntomoon.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   
-  立足喜币，专注金融，放眼世界，心系未来！
-
-  喜币上月球(HCNtoMoon)网站是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
+  <p><b>立足喜币，专注金融，放眼世界，心系未来！<b></p>
+  <p>🚀<a href="https://hcntomoon.github.io/">喜币上月球(HCNtoMoon)网站</a>是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！喜币上月球，岂止于月球，我的征途是星辰大海！</p>
+  <p><i>HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!</i></p> 
+  <p>您可以了解更多<a href="/about">关于本站和我</a>。</p> 
 
 slogan: "喜币上月球，绝顶名千秋！人生何所求，喜币上月球！"
 
-keywords: "喜币上月球,HCNtoMoon,喜币,上月球,HCN to Moon"
+keywords: "喜币上月球,HCNtoMoon,喜币,上月球,HCN"
 
 
-permalink: /:slug    # 永久链接
+permalink: /:slug    # For example, the title “Tips & Tricks” can be slugified to “tips-tricks” ,By slugifying a string, what is meant is adding a slug (-) in each of the string where there is a space.(永久链接样式的配置文件)
 
 favicon: "./logo.png" # relative path to site's favicon
 
@@ -34,9 +35,9 @@ titles_from_headings:
   enabled: true
   strip_title: true
   collections: true
-# 要安装 Jekyll插件，需要在两个地方添加插件名称。一个在_config.yml文件的plugins部分，第二个在Gemfile文件
 
-#如果你希望 Jekyll 在帖子准备好发布之前忽略它：published: false
+
+
 
 
 theme_config:
@@ -68,7 +69,7 @@ sass:
 
 
 google_analytics:
-  - G-E5VVCWR37F # New GA4 property
+  - G-E5VVCWR37F # New GA4 property      ,  UA is about to be deprecated on Jul 1, 2023,
   
   
   

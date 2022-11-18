@@ -30,7 +30,44 @@ permalink: /about/
 
 ### 网站更新日志 Website update log✨ 
 
-[喜币上月球(HCNtoMoon)网站更新日志](https://hcntomoon.github.io/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+
+*   2022-04-22，<font color="#ff0000"> 喜币上月球(HCNtoMoon)网站正式上线！</font>  🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ [关于本站](https://hcntomoon.github.io/about)
+    - 2022-04-23，添加了Jekyll皮肤，修改和优化！
+    - 2022-04-24，皮肤继续优化！
+    - 2022-04-25，完善超链接，图片库。
+    - 2022-05-07，持续优化，修复了大量的小问题！<font color="#FF0000">❤</font>
+    - 2022-05-21，文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
+
+
+
+
+<div id="showsectime"></div>
+<script type="text/javascript">
+　　function NewDate(str) { 
+　　　　str = str.split('-'); 
+　　　　var date = new Date(); 
+　　　　date.setUTCFullYear(str[0], str[1] - 1, str[2]); 
+　　　　date.setUTCHours(0, 0, 0, 0); 
+　　　　return date; 
+　　　} 
+　　function showsectime() {
+　　　　var birthDay =NewDate("2022-04-22");    //网站建立时间
+　　　　var today=new Date();
+　　　　var timeold=today.getTime()-birthDay.getTime();
+　　　　var sectimeold=timeold/1000
+　　　　var secondsold=Math.floor(sectimeold);
+　　　　var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
+　　　　var daysold=Math.floor(e_daysold);
+　　　　var e_hrsold=(daysold-e_daysold)*-24;
+　　　　var hrsold=Math.floor(e_hrsold);
+　　　　var e_minsold=(hrsold-e_hrsold)*-60;
+　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
+　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+　　　　setTimeout(showsectime, 1000);
+　　}showsectime();
+</script>
+
+
 
 ### 关于我 About me🌕 
 
@@ -83,11 +120,9 @@ permalink: /about/
 如果觉得不错，不妨推荐给你身边喜欢喜币的朋友~
 
 
-
 ### 声明 Disclaimer📢
 - 本网站不会收集任何人的个人信息。
 - 我虽然努力使信息保持最新和正确，但不对喜币上月球(HCNtoMoon)网站中信息的完整性、准确性或可靠性作出任何形式的明示或暗示的陈述或保证。您对此类信息的任何依赖均由您自行负责，本网站不承担任何法律责任。本网站没有任何喜联储的从属关系、批准或背书。
-- Copyright©2022 HCNtoMoon. All rights reserved. 喜币上月球 版权所有 保留所有权利
 
 
 

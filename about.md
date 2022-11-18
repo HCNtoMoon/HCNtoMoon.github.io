@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 categories: 本网站
 tags: 关于
 permalink: /about/

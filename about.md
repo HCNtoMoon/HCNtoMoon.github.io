@@ -30,14 +30,12 @@ permalink: /about/
 
 ### 网站更新日志 Website update log✨ 
 
-
-*   2022-04-22，<font color="#ff0000"> 喜币上月球(HCNtoMoon)网站正式上线！</font>  🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ [关于本站](https://hcntomoon.github.io/about)
+*   2022-04-22，喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ 
     - 2022-04-23，添加了Jekyll皮肤，修改和优化！
     - 2022-04-24，皮肤继续优化！
     - 2022-04-25，完善超链接，图片库。
     - 2022-05-07，持续优化，修复了大量的小问题！<font color="#FF0000">❤</font>
     - 2022-05-21，文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
-
 
 
 
@@ -73,7 +71,6 @@ permalink: /about/
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
-> 喜币上月球(HCNtoMoon)网站创始人，喜币拥有光明的未来，我在月球等着你！
 
 > 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)。
 

@@ -3,9 +3,10 @@ layout: default
 categories: 本网站
 tags: 关于
 permalink: /about/
+title: about
 ---
 
-## 关于本站和我 - 喜币上月球(HCNtoMoon)
+## 关于本站和我
 
 
 ###  关于本站 About website🚀

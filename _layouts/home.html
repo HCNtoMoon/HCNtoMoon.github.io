@@ -5,6 +5,15 @@ layout: default
 <header>
 
 
+
+  {% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+
+
+
+
   <h1>{{ site.title }}</h1>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
@@ -33,4 +42,11 @@ layout: default
   {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
+
+{% if site.theme_config.show_footer == true %}
+<footer>
+  <div class="dashed"></div>
+  {% include horizontal_list.html collection=site.data.home.footer_entries %}
+</footer>
+{% endif %}
 

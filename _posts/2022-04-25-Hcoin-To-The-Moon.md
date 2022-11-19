@@ -3,7 +3,7 @@ layout: post
 tags: 喜币
 ---
 
-## Hcoin To The Moon（MV、音乐、歌词） - 喜币上月球(HCNtoMoon)
+## Hcoin To The Moon（MV、音乐、歌词）
 
 * 演唱：Miles Guo
 * 作词：威廉王

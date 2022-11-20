@@ -39,7 +39,7 @@ title: 关于
     - 2022-05-21，文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
 *   2022-11-19，网站标题自动加上网站名称。
 
-
+<center>
 <font color="#FF0000">
 <div id="showsectime"></div>
 <script type="text/javascript">
@@ -67,21 +67,19 @@ title: 关于
 　　}showsectime();
 </script>
 </font>
-
+</center>
 
 ### 关于我 About me🌕 
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 
-> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)
+> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)
 
-
-[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 
 - 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
-- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、
+- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)
 - ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All links in one)
 - 📝 [Github](https://github.com/HCNtoMoon)
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 

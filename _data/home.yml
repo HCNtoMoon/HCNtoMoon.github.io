@@ -84,6 +84,9 @@ footer_entries:
     
   - title: Github
     url: https://github.com/hcntomoon
-    
+
+  - title: Bitly
+    url: https://bit.ly/m/hcn
+
   - title: feed
     url: feed.xml

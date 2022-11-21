@@ -28,8 +28,6 @@ gyro.to: <https://gyro.to/HcoinToTheMoonKaraokeVersion>
 
 
 
------
-
 
 ### *Hcoin To The Moon歌词(中文+英文)* 
 
@@ -83,7 +81,8 @@ Hcoin to the moon
 Hcoin to the moon  
 Hcoin to the moon  
 
------
+
+
 ### *Hcoin To The Moon纯英文版歌词Pure English Lyrics* 
 
 

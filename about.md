@@ -91,13 +91,15 @@ title: 关于
 
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
-#HCN #喜币 #HDO #喜美元 #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
+#喜币 #HCN #喜美元 #HDO #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
 #币圈 #币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 #Bitcoin #比特币 #ETH #以太坊 //区块链新闻的标签
 #金融 #金融新闻 #投资 #理财 #财经新闻 #FinanceNews #股市 #股票 //金融新闻的标签
 #DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 #币安 #Binance #USDT
 #摩根家族 #罗斯柴尔德家族 #沼泽地 #美联储 #光明会 #共济会 #骷髅会 //神秘的沼泽地
 #北美健身教练 #SWIFT  #利好喜币
 #娱乐新闻 #翻墙新闻 #科技新闻
+#喜欧元 #HEU 
+
 ```
 
 ### 长期更新的原创文章 Long-term update 🐎
@@ -106,7 +108,7 @@ title: 关于
 
 - [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
 
-- [关于喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
+- [喜币场外交易](https://hcntomoon.github.io/%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
 
 - [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 

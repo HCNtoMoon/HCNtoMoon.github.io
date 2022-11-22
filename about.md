@@ -74,7 +74,7 @@ title: 关于
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 
-> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)
+> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)、[脸书Facebook](https://www.facebook.com/hcntomoon/)
 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 

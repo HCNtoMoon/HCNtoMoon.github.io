@@ -79,7 +79,7 @@ title: 关于
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 
 - 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
-- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)
+- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon/)
 - ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All links in one)
 - 📝 [Github](https://github.com/HCNtoMoon)
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 

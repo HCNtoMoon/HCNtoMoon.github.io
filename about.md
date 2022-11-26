@@ -126,3 +126,8 @@ title: 关于
 
 
 **收藏喜币上月球(HCNtoMoon)网站到浏览器收藏夹，永久地址 <https://hcntomoon.github.io/> ！关注喜币上月球(HCNtoMoon)，带你上月球！**
+
+
+<font color="blue">
+Copyright © hcntomoon.github.io All Rights Reserved.
+</font>

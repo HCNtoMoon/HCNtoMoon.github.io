@@ -2,11 +2,10 @@
 layout: post
 categories: 本网站
 tags: 关于
-permalink: /about/
 title: 关于
 ---
 
-## 关于本站和我
+## 关于
 
 
 ###  关于本站 About website🚀

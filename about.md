@@ -12,6 +12,8 @@ title: 关于
 
 ![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")
 
+<a href="https://www.youtube.com/shorts/RSnNU_QbmG0" target="_blank"><p align="center"><img src="/images/about/HCNtoMoon_logo_O.png" width="10%"></p></a>
+
 **立足喜币，专注金融，放眼世界，心系未来！**
 
 **🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
@@ -76,12 +78,14 @@ title: 关于
 > 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)、[脸书Facebook](https://www.facebook.com/hcntomoon/)、[长毛象Mastodon](https://mas.to/@hcntomoon)
 
 
-- 🔭 I’m a HCN lover absolutely. No doubt. My goal: Moon! 
+- 🔭 I’m a HCN lover absolutely. No doubt. My goal: HCN to Moon! 
 - 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
 - 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon/)、[Mastodon](https://mas.to/@hcntomoon)
-- ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All links in one)
+- ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)
 - 📝 [Github](https://github.com/HCNtoMoon)
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
+
+
 
 
 ### 关键词 Keywords📱

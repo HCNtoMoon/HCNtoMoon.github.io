@@ -12,7 +12,7 @@ description: > # description of the site (multiple lines allowed)
 
 slogan: "喜币上月球，绝顶名千秋！人生何所求，喜币上月球！"
 
-keywords: "喜币上月球,HCNtoMoon,喜币,上月球,HCN"
+keywords: "喜币上月球,HCNtoMoon,喜币,喜币大事记,喜币官网,喜币价格,喜币交易所,喜币价格走势,喜币怎么买,喜币是什么,喜币维基百科,喜币 hcn"
 
 
 permalink: /:slug    # For example, the title “Tips & Tricks” can be slugified to “tips-tricks” ,By slugifying a string, what is meant is adding a slug (-) in each of the string where there is a space.(永久链接样式的配置文件)

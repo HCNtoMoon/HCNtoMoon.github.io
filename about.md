@@ -5,15 +5,12 @@ tags: 关于
 title: 关于
 ---
 
-## 关于
-
 
 ###  关于本站 About website🚀🌕
 
 
-![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")
+[![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
-<a href="https://www.youtube.com/shorts/RSnNU_QbmG0" target="_blank"><p align="center"><img src="/images/about/HCNtoMoon_logo_O.png" width="10%"></p></a>
 
 **立足喜币，专注金融，放眼世界，心系未来！**
 

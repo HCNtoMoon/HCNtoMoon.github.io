@@ -6,7 +6,7 @@ title: 关于
 ---
 
 
-###  关于本站 About website🚀🌕
+###  关于本网站 About website🚀🌕
 
 
 [![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")](https://www.youtube.com/shorts/RSnNU_QbmG0)
@@ -28,9 +28,9 @@ title: 关于
 
 喜币上月球(HCNtoMoon)网站涵盖币圈新闻、金融新闻、社会新闻、娱乐新闻等。喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！ 
 
-喜币上月球(HCNtoMoon)网站的优势：1.全球知名，在币圈享有盛誉；2.风驰电掣，网站加载速度快（墙内访问需翻墙）；3.注重新闻时效，信息更新及时；4.内容丰富，应有尽有，无所不至；5.没有广告、没有广告、没有广告。今天你Google搜索“喜币上月球”了吗？
+网站优势：1.全球知名，在币圈享有盛誉；2.风驰电掣，网站加载速度快（墙内访问需翻墙）；3.注重新闻时效，信息更新及时；4.内容丰富，应有尽有，无所不至；5.没有广告、没有广告、没有广告。今天你Google搜索“喜币上月球”了吗？
 
-喜币上月球(HCNtoMoon)网站为非盈利性站点，如果您喜欢本站，欢迎转发分享！
+*喜币上月球(HCNtoMoon)网站为非盈利性站点，如果您喜欢本网站，欢迎转发分享！*
 
 ### 网站更新日志 Website update log✨ 
 
@@ -119,22 +119,25 @@ title: 关于
 
 - [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
+- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C/){:target="_blank"} 
+
+- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C/){:target="_blank"} 
+
 - 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 
 ### 答谢 Thanks💖 
-感谢所有向本站做出贡献的人，Thank you~
-如果觉得不错，不妨推荐给你身边喜欢喜币的朋友~
+感谢所有向本网站做出贡献的人，Thank you~
+如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[DiscordServer](https://discord.gg/HPR3Sfds3a) 等联系。
 
-
-### 声明 Disclaimer📢
+### 免责声明 Disclaimer📢
+欢迎您访问喜币上月球(HCNtoMoon)网站。
 - 本网站不会收集任何人的个人信息。
-- 我虽然努力使信息保持最新和正确，但不对喜币上月球(HCNtoMoon)网站中信息的完整性、准确性或可靠性作出任何形式的明示或暗示的陈述或保证。您对此类信息的任何依赖均由您自行负责，本网站不承担任何法律责任。本网站没有任何喜联储的从属关系、批准或背书。
+- 本网站没有任何喜联储的从属关系、批准或背书。
+- 本网站力求信息保持最新和正确，但不保证本网站中信息的完整性、准确性、充分性或及时性。您对此类信息的任何依赖均由您自行负责，本网站不承担任何法律责任。
+- 本网站的内容将定期更新或修正。
+- 本网站链接至其他网站的内容仅供参考，该等网站可能由第三方控制或制作，本网站不就其中的任何资料承担责任。
+- 未经书面同意，您不得就本网站的全部或部分信息和资料进行复制、修改、分发、再
+版、重发、展示和演示。
 
 
-
-**收藏喜币上月球(HCNtoMoon)网站到浏览器收藏夹，永久地址 <https://hcntomoon.github.io/> ！关注喜币上月球(HCNtoMoon)，带你上月球！**
-
-
-<font color="blue">
-Copyright © hcntomoon.github.io All Rights Reserved.
-</font>
+**收藏喜币上月球(HCNtoMoon)网站永久地址 <https://hcntomoon.github.io> ！喜币上月球(HCNtoMoon)，带你上月球！Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.**

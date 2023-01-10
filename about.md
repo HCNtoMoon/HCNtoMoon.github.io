@@ -14,7 +14,7 @@ title: 关于
 
 **立足喜币，专注金融，放眼世界，心系未来！**
 
-**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io/)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
+**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
 **喜币上月球，岂止于月球，我的征途是星辰大海！HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!**
 
@@ -77,12 +77,12 @@ title: 关于
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 
-> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)、[脸书Facebook](https://www.facebook.com/hcntomoon/)、[长毛象Mastodon](https://mas.to/@hcntomoon)
+> 爱香港爱台湾爱北美健身教练，熟读三国，欣赏[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}稳重隐忍的大局观、文武兼备执行力强、坚持信念一往无前！我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)、[脸书Facebook](https://www.facebook.com/hcntomoon)、[长毛象Mastodon](https://mas.to/@hcntomoon)
 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: HCN to Moon! 
-- 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
-- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon/)、[Mastodon](https://mas.to/@hcntomoon)
+- 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
+- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon)、[Mastodon](https://mas.to/@hcntomoon)
 - ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)
 - 📝 [Github](https://github.com/HCNtoMoon)
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
@@ -119,9 +119,9 @@ title: 关于
 
 - [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
-- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C/){:target="_blank"} 
+- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
-- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C/){:target="_blank"} 
+- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
 - 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 

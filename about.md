@@ -12,7 +12,7 @@ title: 关于
 [![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 
-**立足喜币，专注金融，放眼世界，心系未来！**
+**立足喜币，专注金融，放眼世界，展望未来！**
 
 **🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个完全由喜币爱好者创建的公益网站。致力于普及喜币知识，分享喜币资讯，带大家更好的了解喜币！**
 
@@ -41,6 +41,9 @@ title: 关于
     - 2022-05-07，持续优化，修复了大量的小问题！<font color="#FF0000">❤</font>
     - 2022-05-21，文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
 *   2022-11-19，网站标题自动加上网站名称。
+
+
+
 
 <center>
 <font color="#FF0000">
@@ -71,6 +74,12 @@ title: 关于
 </script>
 </font>
 </center>
+
+
+### 网站大事记 
+
+*   2023-01-10，Google搜索关键词“喜币”，本网站在首页排名第8位。
+
 
 ### 关于我 About me🌕 
 
@@ -128,15 +137,6 @@ title: 关于
 ### 答谢 Thanks💖 
 感谢所有向本网站做出贡献的人，Thank you~
 如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[DiscordServer](https://discord.gg/HPR3Sfds3a) 等联系。
-
-### 免责声明 Disclaimer📢
-欢迎您访问喜币上月球(HCNtoMoon)网站。
-- 本网站不会收集访问者的数据。
-- 本网站没有任何喜联储的从属关系、批准或背书。
-- 本网站力求信息保持最新和正确，但不保证本网站中信息的完整性、准确性、充分性或及时性。您对此类信息的任何依赖均由您自行负责，本网站不承担任何法律责任。
-- 本网站的内容将定期更新或修正。
-- 本网站链接至其他网站的内容仅供参考，该等网站可能由第三方控制或制作，本网站不就其中的任何资料承担责任。
-- 未经书面同意，您不得就本网站的全部或部分信息和资料进行复制、修改、分发、再版、重发、展示和演示。
 
 
 **收藏喜币上月球(HCNtoMoon)网站永久地址：<https://hcntomoon.github.io> ，喜币上月球(HCNtoMoon)带你上月球，Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.**

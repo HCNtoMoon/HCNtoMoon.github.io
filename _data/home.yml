@@ -41,10 +41,10 @@ project_entries:
     desc: 重点关注中国墙内发生的社会新闻、老百姓民生、疫情、封控等，同时还有世界社会新闻
     highlight: NEW
 
-  - title: 【喜币新手指南】
+  - title: 【喜币指南】
     url: 喜币新手指南
-    desc: 小白必看的喜币新手指南，名词解释，问答
-    highlight: 
+    desc: 喜币新手指南，喜币百科全书，喜币维基百科，人物百科
+    highlight: HOT
     
   - title: 【翻墙后看什么】
     url: 翻墙后看什么

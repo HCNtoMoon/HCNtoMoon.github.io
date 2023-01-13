@@ -13,24 +13,36 @@ navbar_entries:
 project_entries:
   - title: 【喜币大事记】
     url: 喜币大事记
-    desc: 记载喜币发生的大事件，同时展望未来，期待将要发生的大事              
+    desc: 记载喜币已经发生的大事，预测将要发生的大事
     highlight: TOP
 
-  - title: 【北美健身教练】
-    url: 北美健身教练
-    desc: 北美健身教练讲喜币、喜美元、喜联储和喜支付
+  - title: 【喜币指南】
+    url: 喜币新手指南
+    desc: 喜币新手指南，喜币百科全书，喜币维基百科，人物百科
     highlight: HOT
-    
+
   - title: 歌曲《Hcoin To The Moon》
     url: hcoin-to-the-moon
     desc: 视频MV、中文和全英文版歌词
     highlight: 
-    
+
+
+  - title: 【北美健身教练】
+    url: 北美健身教练
+    desc: 这里有关于喜币的最新最全的利好消息，内幕消息
+    highlight: HOT
+
+  - title: 【喜币场外交易】
+    url: 喜币场外交易
+    desc: 喜币场外对敲，不通过喜交所的银行购买喜币的交易
+    highlight: HOT
+
   - title: 【金融新闻】
     url: 金融新闻
-    desc: 分享全球财经消息，外汇、股市（A股、港股、美股）、期货（黄金、原油）消息
+    desc: 金融新闻 财经新闻
     highlight: NEW
-    
+
+
   - title: 【币圈新闻】
     url: 币圈新闻
     desc: 币圈新闻动态、区块链、数字货币
@@ -38,13 +50,15 @@ project_entries:
 
   - title: 【社会新闻】
     url: 社会新闻
-    desc: 重点关注中国墙内发生的社会新闻、老百姓民生、疫情、封控等，同时还有世界社会新闻
+    desc: 民生事件、名人大事、政治新闻
     highlight: NEW
 
-  - title: 【喜币指南】
-    url: 喜币新手指南
-    desc: 喜币新手指南，喜币百科全书，喜币维基百科，人物百科
-    highlight: HOT
+  - title: 【翻墙新闻】
+    url: 翻墙新闻
+    desc: 最新防火长城消息、黑客新闻、数据泄露、网安资讯等
+    highlight: NEW
+
+
     
   - title: 【翻墙后看什么】
     url: 翻墙后看什么

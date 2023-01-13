@@ -120,6 +120,8 @@ title: 关于
 
 - [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
 
+- [科学上网](https://hcntomoon.github.io/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91){:target="_blank"} 
+
 - [喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
 
 - [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 

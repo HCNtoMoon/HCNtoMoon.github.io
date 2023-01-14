@@ -132,9 +132,11 @@ title: 关于
 
 - [喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81){:target="_blank"} 
 
-- [喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
+- [金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} 
 
-- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
 
 - 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 

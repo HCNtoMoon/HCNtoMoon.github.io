@@ -13,7 +13,7 @@ navbar_entries:
 project_entries:
   - title: 【喜币大事记】
     url: 喜币大事记
-    desc: 记载喜币已经发生的大事，预测将要发生的大事
+    desc: 已经发生的和将要发生的
     highlight: TOP
 
   - title: 【喜币指南】
@@ -21,7 +21,7 @@ project_entries:
     desc: 喜币新手指南，喜币百科全书，喜币维基百科，人物百科
     highlight: TOP
 
-  - title: 歌曲《Hcoin To The Moon》
+  - title: Hcoin To The Moon歌曲
     url: hcoin-to-the-moon
     desc: 视频MV、中文和全英文版歌词
     highlight: 

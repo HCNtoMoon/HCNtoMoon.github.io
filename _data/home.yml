@@ -13,7 +13,7 @@ navbar_entries:
 project_entries:
   - title: 【喜币大事记】
     url: 喜币大事记
-    desc: 已经发生的和将要发生的
+    desc: 记载过去已经发生的和预计将要发生的
     highlight: TOP
 
   - title: 【喜币指南】

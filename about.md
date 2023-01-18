@@ -6,30 +6,28 @@ title: 关于
 ---
 
 
-###  关于本网站 About HCNtoMoon website🚀🌕
+###  关于本网站 About HCNtoMoon website🚀
 
 
-[![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)官网")](https://www.youtube.com/shorts/RSnNU_QbmG0)
+[![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)网站")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 **立足喜币，专注金融，放眼世界，展望未来！**
 
-**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站。本网站致力于普及喜币知识、分享喜币资讯，同时网站内容涵盖币圈、金融、技术、社会和历史等方方面面。** 
+**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站。致力于普及喜币知识、分享喜币资讯，同时网站内容涵盖币圈、金融、技术、社会和历史等方方面面。** 
 
 **喜币上月球，岂止于月球，我的征途是星辰大海！**
 
 HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 
-### 喜币上月球的含义 The meaning of HCN to Moon
+### 喜币上月球的含义 The meaning of HCNtoMoon
 
-HCN to Moon = HCN is going to the Moon
+**HCN to Moon = HCN is going to the Moon**
 
 ![喜币上月球的含义图片](/images/about/MOON.jpg "喜币上月球的含义")
 
-**月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会反弹！）。“喜币上月球”的意味着喜币的价格正在飙升。**
+**月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
 Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefullynot back!). 'HCN is going to the Moon' means The price of HCN is soaring.
-
-
 
 ### 网站口号 Slogan
 
@@ -41,9 +39,8 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 **“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！**
 
-**今天你Google搜索“喜币上月球”了吗？**
+**今天你Google搜索“喜币上月球”了吗？** 喜币上月球，因为专业，所以卓越！
 
-喜币上月球，因为专业，所以卓越！
 
 ### 网站优势 Advantage
 
@@ -54,24 +51,24 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 5. 没有广告、没有广告、没有广告。
 
 
-### 关于我 About me🌕 
+### 关于我 About me🌕
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
-资深喜币爱好者，爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}，我的口号是“喜币上月球，绝顶名千秋！人生何所求，喜币上月球！”[《喜币上月球》MV](https://www.youtube.com/shorts/RSnNU_QbmG0){:target="_blank"} ，关注我的社交媒体： [推特Twitter](https://twitter.com/HCNtoMoon) 、[盖特Gettr](https://gettr.com/user/hcntomoon) 、[油管Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[抖音国际版Tiktok](https://www.tiktok.com/@hcntomoon)、[脸书Facebook](https://www.facebook.com/hcntomoon)、[长毛象Mastodon](https://mas.to/@hcntomoon)
+爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。
+
+我的社交媒体： [Twitter(推特)](https://twitter.com/HCNtoMoon) 、[Gettr(盖特)](https://gettr.com/user/hcntomoon) 、[Youtube(油管)](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok(抖音国际版)](https://www.tiktok.com/@hcntomoon)、[Facebook(脸书)](https://www.facebook.com/hcntomoon)、[Mastodon(长毛象)](https://mas.to/@hcntomoon)
 
 
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！鸭子头上站青蛙属实顶呱呱！
 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: HCN to Moon! 
-- 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
+- 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io) 
 - 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon)、[Mastodon](https://mas.to/@hcntomoon)
 - ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)
 - 📝 [Github](https://github.com/HCNtoMoon)
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
-
-
 
 
 ### 网站更新日志 Website update log✨ 
@@ -114,8 +111,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 </script>
 </font>
 </center>
-
-
 
 
 

@@ -82,36 +82,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 *   2022-11-19，网站标题自动加上网站名称。
 
 
-<center>
-<font color="#FF0000">
-<div id="showsectime"></div>
-<script type="text/javascript">
-　　function NewDate(str) { 
-　　　　str = str.split('-'); 
-　　　　var date = new Date(); 
-　　　　date.setUTCFullYear(str[0], str[1] - 1, str[2]); 
-　　　　date.setUTCHours(0, 0, 0, 0); 
-　　　　return date; 
-　　　} 
-　　function showsectime() {
-　　　　var birthDay =NewDate("2022-04-22");    //网站建立时间
-　　　　var today=new Date();
-　　　　var timeold=today.getTime()-birthDay.getTime();
-　　　　var sectimeold=timeold/1000
-　　　　var secondsold=Math.floor(sectimeold);
-　　　　var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
-　　　　var daysold=Math.floor(e_daysold);
-　　　　var e_hrsold=(daysold-e_daysold)*-24;
-　　　　var hrsold=Math.floor(e_hrsold);
-　　　　var e_minsold=(hrsold-e_hrsold)*-60;
-　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
-　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
-　　　　setTimeout(showsectime, 1000);
-　　}showsectime();
-</script>
-</font>
-</center>
-
 
 
 ### 关键词 Keywords📱
@@ -179,3 +149,35 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 
 **收藏喜币上月球(HCNtoMoon)网站永久地址：<https://hcntomoon.github.io> ，喜币上月球(HCNtoMoon)带你上月球，如果您喜欢本网站，欢迎转发分享！Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.**
+
+
+
+<center>
+<font color="#FF0000">
+<div id="showsectime"></div>
+<script type="text/javascript">
+　　function NewDate(str) { 
+　　　　str = str.split('-'); 
+　　　　var date = new Date(); 
+　　　　date.setUTCFullYear(str[0], str[1] - 1, str[2]); 
+　　　　date.setUTCHours(0, 0, 0, 0); 
+　　　　return date; 
+　　　} 
+　　function showsectime() {
+　　　　var birthDay =NewDate("2022-04-22");    //网站建立时间
+　　　　var today=new Date();
+　　　　var timeold=today.getTime()-birthDay.getTime();
+　　　　var sectimeold=timeold/1000
+　　　　var secondsold=Math.floor(sectimeold);
+　　　　var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
+　　　　var daysold=Math.floor(e_daysold);
+　　　　var e_hrsold=(daysold-e_daysold)*-24;
+　　　　var hrsold=Math.floor(e_hrsold);
+　　　　var e_minsold=(hrsold-e_hrsold)*-60;
+　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
+　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+　　　　setTimeout(showsectime, 1000);
+　　}showsectime();
+</script>
+</font>
+</center>

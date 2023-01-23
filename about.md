@@ -73,6 +73,7 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ### 网站更新日志 Website update log✨ 
 
+[喜币上月球(HCNtoMoon)网站历史记录The Wayback Machine](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) 
 *   2022-04-22，喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ 
     - 2022-04-23，添加了Jekyll皮肤，修改和优化！
     - 2022-04-24，皮肤继续优化！
@@ -90,16 +91,22 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 - 搜索相关：喜币上月球,喜币,喜币大事记,喜币官网,喜币价格,喜币交易所,喜币价格走势,喜币怎么买,喜币是什么,喜币维基百科,喜币 hcn
 
+
+
+![喜币上月球的词云图](/images/about/wordcloud.png "喜币上月球的词云")
+
+
+
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
-#喜币 #HCN #喜美元 #HDO #HPAY #喜支付 #HimalayaExchange #喜交所 #喜联储 #Stablecoin #稳定币 #浮动币 #躺平币 //喜马拉雅交易所相关的标签
-#币圈 #币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 #Bitcoin #比特币 #ETH #以太坊 //区块链新闻的标签
+#喜币 #HCN #喜美元 #HDO #喜支付 #HPAY #喜交所 #HimalayaExchange #喜联储 #喜欧元 #HEU #喜黄金 //喜马拉雅交易所相关的标签
+#北美健身教练 #SWIFT #利好喜币 #喜币场外交易 #喜币场外对敲 //喜币其他标签
+#币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 //区块链新闻的标签
+#比特币 #Bitcoin #以太坊 #ETH #稳定币 #Stablecoin #浮动币 #躺平币 #盖特币 #GettrCoin #币安 #Binance #USDT //数字货币的标签
+#DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币  //其他数字货币
 #金融 #金融新闻 #投资 #理财 #财经新闻 #FinanceNews #股市 #股票 //金融新闻的标签
-#DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币 #币安 #Binance #USDT
+#翻墙新闻 #科学上网 #翻墙后 #社会新闻//其他新闻的标签
 #摩根家族 #罗斯柴尔德家族 #沼泽地 #美联储 #光明会 #共济会 #骷髅会 //神秘的沼泽地
-#北美健身教练 #SWIFT  #利好喜币
-#娱乐新闻 #翻墙新闻 #科技新闻
-#喜欧元 #HEU 
 
 ```
 

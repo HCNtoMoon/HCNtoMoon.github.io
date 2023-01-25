@@ -39,8 +39,9 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 **“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！**
 
-**今天你Google搜索“喜币上月球”了吗？** 喜币上月球，因为专业，所以卓越！
+![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
 
+**今天你Google搜索“喜币上月球”了吗？** 喜币上月球，因为专业，所以卓越！
 
 ### 网站优势 Advantage
 

@@ -19,7 +19,7 @@ title: 关于
 
 HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！鸭子头上站青蛙属实顶呱呱！
+喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
 
 <font color="#FF0000">
 <div id="showsectime"></div>
@@ -43,7 +43,7 @@ HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 　　　　var hrsold=Math.floor(e_hrsold);
 　　　　var e_minsold=(hrsold-e_hrsold)*-60;
 　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
-　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站创建于2022年4月22日，已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站创建于2022年4月22日，已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒，真的是鸭子头上站青蛙属实顶呱呱！";
 　　　　setTimeout(showsectime, 1000);
 　　}showsectime();
 </script>
@@ -73,19 +73,20 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
 
-**今天你Google搜索“喜币上月球”了吗？** 喜币上月球，因为专业，所以卓越！
+**今天你Google搜索“喜币上月球”了吗？** 
 
 ### 网站优势 Advantage
 
 1. 全球知名，在币圈享有盛誉。Google搜索“喜币”网站排名首页！
-2. 风驰电掣，网站加载速度快（墙内访问需翻墙），全浏览器兼容。
+2. 风驰电掣，网站加载速度快（墙内访问需翻墙），所有浏览器兼容。
 3. 注重新闻时效，信息更新及时。几乎每日更新！
 4. 内容丰富，应有尽有，无所不至；[金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
 、[币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
 、[社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
 、[翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} 各种新闻都有
 5. 没有广告、没有广告、没有广告。重要的话说三遍！
-
+6. 不收集网站访问者个人信息
+7. 喜币上月球，因为专业，所以卓越！
 
 ### 关于我 About me🌕
 

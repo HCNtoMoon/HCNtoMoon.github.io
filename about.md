@@ -19,6 +19,38 @@ title: 关于
 
 HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 
+喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！鸭子头上站青蛙属实顶呱呱！
+
+<font color="#FF0000">
+<div id="showsectime"></div>
+<script type="text/javascript">
+　　function NewDate(str) { 
+　　　　str = str.split('-'); 
+　　　　var date = new Date(); 
+　　　　date.setUTCFullYear(str[0], str[1] - 1, str[2]); 
+　　　　date.setUTCHours(0, 0, 0, 0); 
+　　　　return date; 
+　　　} 
+　　function showsectime() {
+　　　　var birthDay =NewDate("2022-04-22");    //网站建立时间
+　　　　var today=new Date();
+　　　　var timeold=today.getTime()-birthDay.getTime();
+　　　　var sectimeold=timeold/1000
+　　　　var secondsold=Math.floor(sectimeold);
+　　　　var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
+　　　　var daysold=Math.floor(e_daysold);
+　　　　var e_hrsold=(daysold-e_daysold)*-24;
+　　　　var hrsold=Math.floor(e_hrsold);
+　　　　var e_minsold=(hrsold-e_hrsold)*-60;
+　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
+　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站创建于2022年4月22日，已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+　　　　setTimeout(showsectime, 1000);
+　　}showsectime();
+</script>
+</font>
+
+
+
 ### 喜币上月球的含义 The meaning of HCNtoMoon
 
 **HCN to Moon = HCN is going to the Moon**
@@ -45,11 +77,14 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ### 网站优势 Advantage
 
-1. 全球知名，在币圈享有盛誉；
-2. 风驰电掣，网站加载速度快（墙内访问需翻墙）；
-3. 注重新闻时效，信息更新及时；
-4. 内容丰富，应有尽有，无所不至；
-5. 没有广告、没有广告、没有广告。
+1. 全球知名，在币圈享有盛誉。Google搜索“喜币”网站排名首页！
+2. 风驰电掣，网站加载速度快（墙内访问需翻墙），全浏览器兼容。
+3. 注重新闻时效，信息更新及时。几乎每日更新！
+4. 内容丰富，应有尽有，无所不至；[金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
+、[币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
+、[社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
+、[翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} 各种新闻都有
+5. 没有广告、没有广告、没有广告。重要的话说三遍！
 
 
 ### 关于我 About me🌕
@@ -60,8 +95,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 我的社交媒体： [Twitter(推特)](https://twitter.com/HCNtoMoon) 、[Gettr(盖特)](https://gettr.com/user/hcntomoon) 、[Youtube(油管)](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok(抖音国际版)](https://www.tiktok.com/@hcntomoon)、[Facebook(脸书)](https://www.facebook.com/hcntomoon)、[Mastodon(长毛象)](https://mas.to/@hcntomoon)
 
-
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！鸭子头上站青蛙属实顶呱呱！
 
 
 - 🔭 I’m a HCN lover absolutely. No doubt. My goal: HCN to Moon! 
@@ -82,8 +115,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
     - 2022-05-07，持续优化，修复了大量的小问题！<font color="#FF0000">❤</font>
     - 2022-05-21，文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
 *   2022-11-19，网站标题自动加上网站名称。
-
-
 
 
 ### 关键词 Keywords📱
@@ -129,13 +160,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 - [喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81){:target="_blank"} 
 
-- [北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} 
-
-- [金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} 
-
 
 - 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 
@@ -160,32 +184,4 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 
 
-<center>
-<font color="#FF0000">
-<div id="showsectime"></div>
-<script type="text/javascript">
-　　function NewDate(str) { 
-　　　　str = str.split('-'); 
-　　　　var date = new Date(); 
-　　　　date.setUTCFullYear(str[0], str[1] - 1, str[2]); 
-　　　　date.setUTCHours(0, 0, 0, 0); 
-　　　　return date; 
-　　　} 
-　　function showsectime() {
-　　　　var birthDay =NewDate("2022-04-22");    //网站建立时间
-　　　　var today=new Date();
-　　　　var timeold=today.getTime()-birthDay.getTime();
-　　　　var sectimeold=timeold/1000
-　　　　var secondsold=Math.floor(sectimeold);
-　　　　var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
-　　　　var daysold=Math.floor(e_daysold);
-　　　　var e_hrsold=(daysold-e_daysold)*-24;
-　　　　var hrsold=Math.floor(e_hrsold);
-　　　　var e_minsold=(hrsold-e_hrsold)*-60;
-　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
-　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
-　　　　setTimeout(showsectime, 1000);
-　　}showsectime();
-</script>
-</font>
-</center>
+

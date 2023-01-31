@@ -6,14 +6,16 @@ title: 关于
 ---
 
 
-###  关于本网站 About HCNtoMoon website🚀
+##  关于喜币上月球 About HCNtoMoon🚀
 
 
 [![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)网站")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 **立足喜币，专注金融，放眼世界，展望未来！**
 
-**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站，致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！目前网站内容已衍生到币圈、金融、技术等方面。** 
+**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站，致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！目前网站内容已衍生到币圈、金融、技术等领域。** 
+
+**本网站的作者从最初就意识到了喜币的重要性，并深信未来喜币将在加密货币领域中占据重要地位，但是发现Google搜索“喜币”的结果里充斥着各种假新闻假消息，互联网上也并没有专业、系统、详细的介绍喜币的网站，因此创建了喜币上月球(HCNtoMoon)网站。作者是一个多元化的思想家和充满激情的实干家，在这里，不要鸡血要事实，不要吹捧要实干，脚踏实地，日拱一卒，网站内容从最初只有喜币，一步步的已经衍生到币圈、金融、技术等领域。未来将与时俱进，紧跟时代发展！**
 
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！在这里关于喜币、币圈、金融等都可以畅所欲言！
 
@@ -45,11 +47,23 @@ title: 关于
 </script>
 </font>
 
+[![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
+
+
+- 🔭 爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。Love Hong Kong and Taiwan, admire Sima Yi and North American fitness coaches, senior HCN enthusiast, highly recommend HCN OTC trading.
+- 🚀️ Website: [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io) 
+- 🌕 Soclal Media: [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), [Facebook](https://www.facebook.com/hcntomoon), [Mastodon](https://mas.to/@hcntomoon)
+- 🎁 Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)
+- 📝 program: [Github](https://github.com/HCNtoMoon)
+- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
+- 🎼 Music: [歌曲Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} 
+- 💿 History: [The Wayback Machine](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) 
+- 🚫 Blacklist: [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
 
 
 ### 喜币上月球的含义 The meaning of HCNtoMoon
 
-**喜币上月球的名称灵感来自于[歌曲Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} ，HCN to Moon = HCN to the Moon = HCN is going to the Moon**
+**HCN to Moon = HCN to the Moon = HCN is going to the Moon**
 
 ![喜币上月球的含义图片](/images/about/MOON.jpg "喜币上月球的含义")
 
@@ -75,7 +89,7 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ### 网站使命 Mission Statement💭
 **致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！**
-
+[歌曲Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} 
 
 ### 网站优势 Advantage⚡
 > [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球中文用户了解喜币的必看网站，Google搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！
@@ -89,27 +103,8 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 7. 绝对安全，没有cookie。网站不需要、也不会收集访问者个人信息。
 
 
-### 关于我 About me🌕
-
-[![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
-
-爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。
-
-我的社交媒体： [Twitter(推特)](https://twitter.com/HCNtoMoon) 、[Gettr(盖特)](https://gettr.com/user/hcntomoon) 、[Youtube(油管)](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok(抖音国际版)](https://www.tiktok.com/@hcntomoon)、[Facebook(脸书)](https://www.facebook.com/hcntomoon)、[Mastodon(长毛象)](https://mas.to/@hcntomoon)
-
-
-
-- 🔭 I’m a HCN lover absolutely. No doubt. My goal: HCN to Moon! 
-- 🚀️ Website: [HCNtoMoon](https://hcntomoon.github.io) 
-- 😄 Follow Me: [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw)、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[Tiktok](https://www.tiktok.com/@hcntomoon)、[Facebook](https://www.facebook.com/hcntomoon)、[Mastodon](https://mas.to/@hcntomoon)
-- ⏰ Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)
-- 📝 [Github](https://github.com/HCNtoMoon)
-- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
-
-
 ### 网站更新日志 Website update log✨ 
 
-[喜币上月球(HCNtoMoon)网站历史记录The Wayback Machine](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) 
 *   2022-04-22，喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ 
     - 2022-04-23，添加了Jekyll皮肤，修改和优化！
     - 2022-04-24，皮肤继续优化！
@@ -121,14 +116,9 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ### 关键词 Keywords📱
 
-- 常用标签：#喜币上月球 #HCNtoMoon #利好喜币 
-
-- 搜索相关：喜币上月球,喜币,喜币大事记,喜币官网,喜币价格,喜币交易所,喜币价格走势,喜币怎么买,喜币是什么,喜币维基百科,喜币 hcn
-
-
+> 常用标签：#喜币上月球 #HCNtoMoon #利好喜币。搜索相关：喜币上月球,喜币,喜币大事记,喜币官网,喜币价格,喜币交易所,喜币价格走势,喜币怎么买,喜币是什么,喜币维基百科,喜币 hcn
 
 ![喜币上月球的词云图](/images/about/wordcloud.png "喜币上月球的词云")
-
 
 
 ```markdown
@@ -144,40 +134,9 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ```
 
-### 长期更新的原创文章 Long-term update 🐎
-
-
-- [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
-
-- [科学上网](https://hcntomoon.github.io/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91){:target="_blank"} 
-
-- [喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"} 
-
-- [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
-
-- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
-
-- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C){:target="_blank"} 
-
-- [喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81){:target="_blank"} 
-
-- [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
-
-- [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} 
-
-- [金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
-- [翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} ，还有各种知识分享。
-
-- [喜币大事记](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0){:target="_blank"} 
-
-- [喜币新手指南](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97){:target="_blank"} 
-
-- 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 
 ### 隐私政策 Privacy policy🔒
-喜币上月球(HCNtoMoon)网站不会收集任何访问者的数据。
+喜币上月球(HCNtoMoon)网站不记录cookie，不会收集任何访问者的数据。
 
 ### 免责声明 Disclaimer📢
 欢迎您访问喜币上月球(HCNtoMoon)网站。
@@ -193,8 +152,4 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[DiscordServer](https://discord.gg/HPR3Sfds3a) 等联系。
 
 
-**收藏喜币上月球(HCNtoMoon)网站永久地址：<https://hcntomoon.github.io> ，喜币上月球(HCNtoMoon)带你上月球，如果您喜欢本网站，欢迎转发分享！Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.**
-
-
-
-
+*喜币上月球(HCNtoMoon)网站永久地址：<https://hcntomoon.github.io> Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.*

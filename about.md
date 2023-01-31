@@ -50,7 +50,7 @@ title: 关于
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
 
-- 🔭 爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。Love Hong Kong and Taiwan, admire Sima Yi and North American fitness coaches, senior HCN enthusiast, highly recommend HCN OTC trading.
+- 🔭 爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。Love Hong Kong and Taiwan, admire Sima Yi and North America fitness coach, senior HCN enthusiast, highly recommend HCN OTC trading.
 - 🚀️ Website: [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io) 
 - 🌕 Soclal Media: [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Youtube](https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), [Facebook](https://www.facebook.com/hcntomoon), [Mastodon](https://mas.to/@hcntomoon)
 - 🎁 Short URL: [Bitly](https://bit.ly/m/hcn) (All HCNtoMoon links in one)

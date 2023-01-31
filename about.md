@@ -81,7 +81,7 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 > [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球中文用户了解喜币的必看网站，Google搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！
 
 1. 立足喜币，为喜币而生。
-2. 全球知名，在币圈享有盛誉。
+2. 全球知名，在币圈享有盛誉（在充斥着各种假消息的币圈中传播真实弥足珍贵）。
 3. 风驰电掣，网站响应速度快（墙内访问需翻墙）。
 4. 实时抓取，信息更新及时，注重新闻时效。
 5. 内容丰富，不止喜币，各种资讯，应有尽有；

@@ -13,13 +13,9 @@ title: 关于
 
 **立足喜币，专注金融，放眼世界，展望未来！**
 
-**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站。致力于普及喜币知识、分享喜币资讯，同时网站内容涵盖币圈、金融、技术、社会和历史等方方面面。** 
+**🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站，致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！目前网站内容已衍生到币圈、金融、技术等方面。** 
 
-**喜币上月球，岂止于月球，我的征途是星辰大海！**
-
-HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
-
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！畅所欲言，拥有喜币的生活无限美好！
+喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！在这里关于喜币、币圈、金融等都可以畅所欲言！
 
 <font color="#FF0000">
 <div id="showsectime"></div>
@@ -43,7 +39,7 @@ HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 　　　　var hrsold=Math.floor(e_hrsold);
 　　　　var e_minsold=(hrsold-e_hrsold)*-60;
 　　　　var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
-　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站创建于2022年4月22日，已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒，真的是鸭子头上站青蛙属实顶呱呱！";
+　　　　document.getElementById("showsectime").innerHTML = "喜币上月球(HCNtoMoon)网站创建于2022年4月22日，已稳定运行："+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒，真的是鸭子头上站青蛙，属实顶呱呱！";
 　　　　setTimeout(showsectime, 1000);
 　　}showsectime();
 </script>
@@ -53,13 +49,14 @@ HCN to Moon. Futher away than the Moon. My Conquest Is the Sea of Stars!
 
 ### 喜币上月球的含义 The meaning of HCNtoMoon
 
-**HCN to Moon = HCN is going to the Moon**
+**喜币上月球的名称灵感来自于[歌曲Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} ，HCN to Moon = HCN to the Moon = HCN is going to the Moon**
 
 ![喜币上月球的含义图片](/images/about/MOON.jpg "喜币上月球的含义")
 
 **月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
 Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefullynot back!). 'HCN is going to the Moon' means The price of HCN is soaring.
+
 
 ### 网站口号 Slogan
 
@@ -73,20 +70,24 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
 
-**今天你Google搜索“喜币上月球”了吗？** 
+**今天你[Google搜索“喜币上月球”](https://www.google.com/search?q=%E5%96%9C%E5%B8%81%E4%B8%8A%E6%9C%88%E7%90%83){:target="_blank"} 了吗？** 
 
-### 网站优势 Advantage
 
-1. 全球知名，在币圈享有盛誉。Google搜索“喜币”网站排名首页！
-2. 风驰电掣，网站加载速度快（墙内访问需翻墙），所有浏览器兼容。
-3. 注重新闻时效，信息更新及时。几乎每日更新！
-4. 内容丰富，应有尽有，无所不至；[金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
-、[币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
-、[社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
-、[翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} 各种新闻都有
-5. 没有广告、没有广告、没有广告。重要的话说三遍！
-6. 不收集网站访问者个人信息
-7. 喜币上月球，因为专业，所以卓越！
+### 网站使命 Mission Statement💭
+**致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！**
+
+
+### 网站优势 Advantage⚡
+> [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球中文用户了解喜币的必看网站，Google搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！
+
+1. 立足喜币，为喜币而生。
+2. 全球知名，在币圈享有盛誉。
+3. 风驰电掣，网站响应速度快（墙内访问需翻墙）。
+4. 实时抓取，信息更新及时，注重新闻时效。
+5. 内容丰富，不止喜币，各种资讯，应有尽有；
+6. 没有广告、没有广告、没有广告。重要的话说三遍！
+7. 绝对安全，没有cookie。网站不需要、也不会收集访问者个人信息。
+
 
 ### 关于我 About me🌕
 
@@ -145,7 +146,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 ### 长期更新的原创文章 Long-term update 🐎
 
-- [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
 
 - [翻墙后看什么？](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88){:target="_blank"} 
 
@@ -161,6 +161,18 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 - [喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81){:target="_blank"} 
 
+- [我的黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
+
+- [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} 
+
+- [金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB){:target="_blank"} 
+- [翻墙新闻](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BB){:target="_blank"} ，还有各种知识分享。
+
+- [喜币大事记](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0){:target="_blank"} 
+
+- [喜币新手指南](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97){:target="_blank"} 
 
 - 对于速记每隔一段时间会对历史久远的进行归档，请及时下载！
 

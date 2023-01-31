@@ -21,12 +21,6 @@ project_entries:
     desc: 喜币新手指南，喜币百科全书，喜币维基百科，人物百科
     highlight: TOP
 
-  - title: Hcoin To The Moon歌曲
-    url: hcoin-to-the-moon
-    desc: 视频MV、中文和全英文版歌词
-    highlight: 
-
-
   - title: 【北美健身教练】
     url: 北美健身教练
     desc: 这里有关于喜币的最新最全的利好消息，内幕消息
@@ -41,7 +35,6 @@ project_entries:
     url: 金融新闻
     desc: 金融新闻 财经新闻
     highlight: NEW
-
 
   - title: 【币圈新闻】
     url: 币圈新闻
@@ -58,14 +51,11 @@ project_entries:
     desc: 最新防火长城消息、黑客新闻、数据泄露、网安资讯等
     highlight: NEW
 
-
-    
   - title: 【翻墙后看什么】
     url: 翻墙后看什么
     desc: 墙外网址导航，被中国国家防火墙（GFW）封锁的中文资源推荐
     highlight: HOT
  
-    
   - title: 【我的黑名单】
     url: 黑名单
     desc: 我的黑名单，骗子名单、伪类名单

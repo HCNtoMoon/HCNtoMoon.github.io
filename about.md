@@ -6,7 +6,7 @@ title: 关于
 ---
 
 
-##  关于喜币上月球 About HCNtoMoon🚀
+##  关于喜币上月球 About HCNtoMoon🚀🌕
 
 
 [![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)网站")](https://www.youtube.com/shorts/RSnNU_QbmG0)
@@ -15,7 +15,7 @@ title: 关于
 
 **🚀[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)是一个由资深喜币爱好者创建的公益网站，致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！目前网站内容已衍生到币圈、金融、技术等领域。** 
 
-**本网站的作者从最初就意识到了喜币的重要性，并深信未来喜币将在加密货币领域中占据重要地位，但是发现Google搜索“喜币”的结果里充斥着各种假新闻假消息，互联网上也并没有专业、系统、详细的介绍喜币的网站，因此创建了喜币上月球(HCNtoMoon)网站。作者是一个多元化的思想家和充满激情的实干家，在这里，不要鸡血要事实，不要吹捧要实干，脚踏实地，日拱一卒，网站内容从最初只有喜币，一步步的已经衍生到币圈、金融、技术等领域。未来将与时俱进，紧跟时代发展！**
+**本网站的作者从最初就意识到了喜币的重要性，并深信未来喜币将在加密货币领域中占据重要地位，但是发现Google搜索“喜币”的结果里充斥着各种假新闻假消息，互联网上也并没有专业、系统、详细的介绍喜币的网站，因此创建了喜币上月球(HCNtoMoon)网站。作者是一个多元化的思想家和充满激情的实干家，在这里，不要鸡血要事实，不要吹捧要实干，脚踏实地，日拱一卒，网站内容从最初只有喜币，一步步的已经衍生到币圈、金融、技术等领域。未来将继续与时俱进，紧跟时代发展！**
 
 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！在这里关于喜币、币圈、金融等都可以畅所欲言！
 
@@ -73,6 +73,9 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 
 
 ### 网站口号 Slogan
+![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
+
+**今天你[Google搜索“喜币上月球”](https://www.google.com/search?q=%E5%96%9C%E5%B8%81%E4%B8%8A%E6%9C%88%E7%90%83){:target="_blank"} 了吗？** 
 
 **喜币上月球，绝顶名千秋！人生何所求，喜币上月球！**
 
@@ -81,11 +84,6 @@ Moon or Mooning describes when a cryptocurrency price increases sharply, shootin
 **喜币恒久远，一币永流传！**
 
 **“你好，你有喜币吗？”这一句话将成为未来的最有力量的问候语！**
-
-![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
-
-**今天你[Google搜索“喜币上月球”](https://www.google.com/search?q=%E5%96%9C%E5%B8%81%E4%B8%8A%E6%9C%88%E7%90%83){:target="_blank"} 了吗？** 
-
 
 ### 网站使命 Mission Statement💭
 **致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息平台！**

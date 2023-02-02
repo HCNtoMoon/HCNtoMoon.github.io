@@ -46,18 +46,11 @@ project_entries:
     desc: 民生事件、名人大事、政治新闻、落马高官
     highlight: NEW
 
-  - title: 【翻墙新闻】
-    url: 翻墙新闻
-    desc: 最新防火长城消息、黑客新闻、数据泄露、网安资讯等
-    highlight: NEW
-
   - title: 【翻墙后看什么】
     url: 翻墙后看什么
     desc: 墙外网址导航，被中国国家防火墙（GFW）封锁的中文资源推荐
     highlight: HOT
- 
 
-    
 footer_entries:
   - title: 首页
     url: https://hcntomoon.github.io
@@ -72,7 +65,7 @@ footer_entries:
     url: https://gettr.com/user/hcntomoon
     
   - title: Youtube
-    url: https://www.youtube.com/channel/UCM3ii_co08ZqJBlWwl5s8zw
+    url: https://www.youtube.com/@hcntomoon
 
   - title: Reddit
     url: https://www.reddit.com/user/HCNtoMoon    

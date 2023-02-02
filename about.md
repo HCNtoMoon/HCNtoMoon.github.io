@@ -69,7 +69,7 @@ title: 关于
 
 ![喜币上月球的含义图片](/images/about/MOON.jpg "喜币上月球的含义")
 
-**Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefullynot back!). 'HCN is going to the Moon' means The price of HCN is soaring.**
+**Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefully not back!). 'HCN is going to the Moon' means The price of HCN is soaring.**
 
 **月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 

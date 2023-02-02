@@ -1,20 +1,14 @@
-### Hi there, Welcome to [HCNtoMoon](https://hcntomoon.github.io/) 👋 
-
-
-<p align="center">
-  <img src="/images/rocket_1f680.png" width="10%">
-</p>
-
-
 ![喜币上月球图片](/images/about/HCNtoMoon.jpg "喜币上月球")
-
+## Hi there, Welcome to [HCNtoMoon](https://hcntomoon.github.io/) 👋 
 ### Notice: 
 **You may not redistribute any content that I own in this repo without my permission, unless I've already attributed it to someone else. When in doubt, please feel free to message me and ask!**
 
 ### 注意：
 **未经我的许可，您不得重新分发我在此存储库中拥有的任何内容，除非我已经将其归于其他人。如有疑问，请随时向我询问！**
 
-
+<p align="center">
+  <img src="/images/about/HCNtoMoon_logo_O_small.png" width="90%">
+</p>
 
 
 - [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)
@@ -35,6 +29,11 @@
 - [黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 - [网安新闻](https://hcntomoon.github.io/%E7%BD%91%E5%AE%89%E6%96%B0%E9%97%BB) 
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HCNtoMoon/HCNtoMoon.github.io/gh-pages/images/about/HCNtoMoon.jpg">
+</p>
 
 
 

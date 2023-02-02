@@ -15,7 +15,7 @@ title: 关于
 
 **HCNtoMoon这个名字灵感来自于歌曲[Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon)，作者从最初就意识到喜币的重要性，并深信喜币未来将在加密货币领域中占据重要地位，但网络上没有专业、系统、详细的介绍喜币的网站，Google的“喜币”搜索结果充斥着各种假新闻假消息，因此HCNtoMoon创建了喜币上月球(HCNtoMoon)网站。作者自认为是一个多元化的思想家和充满激情的实干家，在这里，不要鸡血要事实，不要吹捧要实干，脚踏实地，日拱一卒，网站的内容从最初只有[喜币大事记](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0)和[喜币新手指南](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)，内容逐步增加了[北美健身教练聊喜币](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83)、[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93)、[喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81)，苦心孤诣，追求完美，目前一步步的已经衍生到[币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB)、[金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB)、[社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB)、[网安新闻](https://hcntomoon.github.io/%E7%BD%91%E5%AE%89%E6%96%B0%E9%97%BB) 、科学、历史、人文等领域。未来将继续与时俱进，紧跟时代发展！**
 
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
+
 
 <font color="#FF0000">
 <div id="showsectime"></div>
@@ -50,12 +50,17 @@ title: 关于
 
 - 🔭 爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。Love Hong Kong and Taiwan, admire Sima Yi and North America fitness coach, senior HCN enthusiast, highly recommend HCN OTC trading.
 - 🚀️ Website: [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io) 
-- 🌕 Soclal Media: [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Youtube](https://www.youtube.com/@hcntomoon), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), [Facebook](https://www.facebook.com/hcntomoon), [Mastodon](https://mas.to/@hcntomoon)
-- 🎁 Short URL: [Bitly](https://bit.ly/m/hcn) (All in one)
-- 📝 Program: [Github](https://github.com/HCNtoMoon)
+- 🌕 Soclal Media:
+    - [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Youtube](https://www.youtube.com/@hcntomoon), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), [Facebook](https://www.facebook.com/hcntomoon), [Mastodon](https://mas.to/@hcntomoon)
+    - Damus Public ID: npub1gzumvszm3x3ran4euqu3pvu3p4znzry6v55z3apgaxjwhznjyu7svk5cyg
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a) 
+- 🎁 Short URL: [Bitly (All in one)](https://bit.ly/m/hcn) 
+- 📝 Program: [Github](https://github.com/HCNtoMoon)
 - 🎼 Music: [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon){:target="_blank"} 
 - 🚫 Blacklist: [My Blacklist](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95){:target="_blank"} 
+
+
+喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
 
 
 ### 喜币上月球的含义 The meaning of HCNtoMoon

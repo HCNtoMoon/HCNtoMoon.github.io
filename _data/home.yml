@@ -51,6 +51,13 @@ project_entries:
     desc: 墙外网址导航，被中国国家防火墙（GFW）封锁的中文资源推荐
     highlight: HOT
 
+  - title: 【我的黑名单】
+    url: 黑名单
+    desc: 我的黑名单、灰名单、骗子伪类特务、精子卵子黑名单
+    highlight: HOT
+
+
+
 footer_entries:
   - title: 首页
     url: https://hcntomoon.github.io

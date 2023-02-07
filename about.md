@@ -46,7 +46,7 @@ title: 关于
  </font>
 
 
-<p><font color="blue" size="4">鸭子头上站青蛙，属实顶呱呱！</font></p>
+<font color="blue" size="4">鸭子头上站青蛙，属实顶呱呱！</font>
 
 
 [![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/@hcntomoon)

@@ -6,9 +6,6 @@
 ### 注意：
 **未经我的许可，您不得重新分发我在此存储库中拥有的任何内容，除非我已经将其归于其他人。如有疑问，请随时向我询问！**
 
-<p align="center">
-  <img src="/images/about/HCNtoMoon_logo_O_small.png" width="90%">
-</p>
 
 
 - [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)

@@ -48,7 +48,7 @@ title: 关于
 <font color="blue" size="4">鸭子头上站青蛙，属实顶呱呱！</font>
 
 
-[![About me图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/@hcntomoon)
+[![关于我图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/@hcntomoon)
 
 
 - 🔭 爱香港爱台湾，仰慕[司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF){:target="_blank"}和[北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83){:target="_blank"} ，资深喜币爱好者，极力推崇[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93){:target="_blank"}。Love Hong Kong and Taiwan, admire Sima Yi and North America fitness coach, senior HCN enthusiast, highly recommend HCN OTC trading.
@@ -57,7 +57,7 @@ title: 关于
     - [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Facebook](https://www.facebook.com/hcntomoon)
     - [Youtube](https://www.youtube.com/@hcntomoon), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), 
     - [Mastodon](https://mas.to/@hcntomoon), [Damus](https://damus.io/npub1gzumvszm3x3ran4euqu3pvu3p4znzry6v55z3apgaxjwhznjyu7svk5cyg)
-- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，Discord contact: 喜币上月球#0866
+- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，Discord username: `喜币上月球#0866` 
 - 🎁 Short URL: [Bitly (All in one)](https://bit.ly/m/hcn)
 - 💰 Bitcoin Lightning Wallet: [Alby](https://getalby.com/p/hcntomoon)
 - 📝 Program: [Github](https://github.com/HCNtoMoon)
@@ -65,7 +65,7 @@ title: 关于
 - 🚫 Blacklist: [My Blacklist](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 
 
-### 喜币上月球的含义 The meaning of HCNtoMoon
+### 喜币上月球的含义 The meaning of HCNtoMoon🌕
 
 **HCN to Moon = HCN to the Moon = HCN is going to the Moon**
 
@@ -75,7 +75,7 @@ title: 关于
 
 **月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
-### 网站口号 Slogan
+### 网站口号 Slogan🎺 
 ![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
 
 **今天你[Google搜索“喜币上月球”](https://www.google.com/search?q=%E5%96%9C%E5%B8%81%E4%B8%8A%E6%9C%88%E7%90%83){:target="_blank"} 了吗？** 

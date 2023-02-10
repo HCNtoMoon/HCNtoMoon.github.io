@@ -25,7 +25,10 @@
 - [喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93)
 - [黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 - [网安新闻](https://hcntomoon.github.io/%E7%BD%91%E5%AE%89%E6%96%B0%E9%97%BB) 
-
+- [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C)
+- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C)
+- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C)
+- [2022年的福布斯年度榜单更新，币圈亿万富翁一年内增加60%！](https://hcntomoon.github.io/2022%E5%B9%B4%E7%9A%84%E7%A6%8F%E5%B8%83%E6%96%AF%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95)
 
 
 <p align="center">

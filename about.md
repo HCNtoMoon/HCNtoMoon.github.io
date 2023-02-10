@@ -57,16 +57,12 @@ title: 关于
     - [Twitter](https://twitter.com/HCNtoMoon) , [Gettr](https://gettr.com/user/hcntomoon) , [Facebook](https://www.facebook.com/hcntomoon)
     - [Youtube](https://www.youtube.com/@hcntomoon), [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), 
     - [Mastodon](https://mas.to/@hcntomoon), [Damus](https://damus.io/npub1gzumvszm3x3ran4euqu3pvu3p4znzry6v55z3apgaxjwhznjyu7svk5cyg)
-- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)
+- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，Discord contact: 喜币上月球#0866
 - 🎁 Short URL: [Bitly (All in one)](https://bit.ly/m/hcn)
 - 💰 Bitcoin Lightning Wallet: [Alby](https://getalby.com/p/hcntomoon)
 - 📝 Program: [Github](https://github.com/HCNtoMoon)
 - 🎼 Music: [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon)
 - 🚫 Blacklist: [My Blacklist](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
-
-
-
-喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
 
 
 ### 喜币上月球的含义 The meaning of HCNtoMoon
@@ -156,6 +152,7 @@ title: 关于
 
 ### 答谢 Thanks💖 
 - 感谢所有向本网站做出贡献的人，Thank you~
+- 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
 - 比特币闪电钱包地址：<https://getalby.com/p/hcntomoon>
 - 如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[DiscordServer](https://discord.gg/HPR3Sfds3a) 等联系，在线聊天直接说事，你好、hello等省略以节省时间。
 

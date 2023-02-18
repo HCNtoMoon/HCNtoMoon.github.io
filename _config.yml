@@ -68,7 +68,8 @@ sass:
 
 
 
-
+google_analytics:
+  - G-E5VVCWR37F # New GA4 property      ,  UA is about to be deprecated on Jul 1, 2023,
   
 # Exclude from processing.从处理中排除。
 # The following items will not be processed, by default.

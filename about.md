@@ -126,7 +126,7 @@ title: 关于
 
 ```markdown
 #喜币上月球 #HCNtoMoon //喜币上月球的专属标签
-#喜币 #HCN #喜美元 #HDO #喜支付 #HPAY #喜交所 #HimalayaExchange #喜联储 #喜欧元 #HEU #喜黄金 //喜马拉雅交易所相关的标签
+#喜币 #HCN #喜美元 #HDO #喜支付 #HPAY #喜交所 #HimalayaExchange #喜联储 #喜欧元 #HEU #喜黄金 #喜钱包 //喜马拉雅交易所相关的标签
 #北美健身教练 #SWIFT #利好喜币 #喜币场外交易 #喜币场外对敲 //喜币其他标签
 #币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 //区块链新闻的标签
 #比特币 #Bitcoin #以太坊 #ETH #稳定币 #Stablecoin #浮动币 #躺平币 #盖特币 #GettrCoin #币安 #Binance #USDT //数字货币的标签

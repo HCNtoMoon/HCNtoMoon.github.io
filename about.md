@@ -139,10 +139,12 @@ title: 关于
 
 
 ### 隐私政策 Privacy policy🔒
-喜币上月球(HCNtoMoon)网站不记录cookie，不会收集任何访问者的数据。
+谢谢您访问喜币上月球(HCNtoMoon)网站。
+
+本网站非常注重保护访问者的安全和个人隐私，不需要cookie，不会收集任何访问者的数据。
 
 ### 免责声明 Disclaimer📢
-欢迎您访问喜币上月球(HCNtoMoon)网站。
+欢迎您访问喜币上月球(HCNtoMoon)网站。<font color="green">喜币上月球™ HCNtoMoon™</font>
 - 本网站的内容将定期更新或修正。
 - 本网站没有任何喜联储的从属关系、批准或背书。
 - 本网站力求信息保持最新和正确，但不保证信息的完整性、准确性、充分性或及时性。您正在阅读的内容仅供参考。
@@ -158,4 +160,3 @@ title: 关于
 
 
 
-<center><font color="green">喜币上月球™ HCNtoMoon™</font></center>

@@ -154,7 +154,8 @@ title: 关于
 - 感谢所有向本网站做出贡献的人，Thank you~
 - 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
 - 比特币闪电钱包地址：<https://getalby.com/p/hcntomoon>
-- 如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、[DiscordServer](https://discord.gg/HPR3Sfds3a) 等联系，在线聊天直接说事，你好、hello等省略以节省时间。
+- 如果您对本网站的内容有任何疑问或意见，请通过[Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Reddit](https://www.reddit.com/user/HCNtoMoon)、Discord username: `喜币上月球#0866` 等联系，在线聊天直接说事，你好、hello等省略以节省时间。
 
 
-*喜币上月球(HCNtoMoon)网站永久地址：<https://hcntomoon.github.io> Copyright © 喜币上月球(HCNtoMoon) All Rights Reserved.*
+
+<center><font color="green">Copyright © <a href="https://hcntomoon.github.io" target="_blank">喜币上月球(HCNtoMoon)网站</a> All Rights Reserved.</font></center>

@@ -15,7 +15,7 @@ title: 关于
 
 **HCNtoMoon这个名字的灵感来源于歌曲[Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon)，作者从最初就意识到喜币的重要性，并深信喜币未来将在加密货币领域中占据重要地位，但网络上没有专业、系统、详细的介绍喜币的网站，Google的“喜币”搜索结果充斥着各种假新闻假消息，因此作者创建了[喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)。作者有极客（Geek）精神，是一个多元化的思想家和充满激情的实干家，在这里，不要鸡血要事实，不要吹捧要实干，网站内容最初只有[喜币大事记](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0)、[喜币新手指南](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)，脚踏实地，日拱一卒，内容逐步增加了[北美健身教练聊喜币](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83)、[喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93)、[喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81)，苦心孤诣，追求完美，一步步的，内容覆盖范围目前已经衍生到了[币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB)、[金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB)、[社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB)、[网安新闻](https://hcntomoon.github.io/%E7%BD%91%E5%AE%89%E6%96%B0%E9%97%BB)、[科学上网](https://hcntomoon.github.io/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)、[翻墙后看什么](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88)、历史、富豪排行榜等领域。未来将继续努力，与时俱进，时刻更新，紧跟时代发展！**
 
-逐步完善，
+
  <font color="#FF0000">
  <div id="showsectime"></div>
   <script type="text/javascript">
@@ -45,7 +45,7 @@ title: 关于
  </font>
 
 
-<font color="blue" size="4">鸭子头上站青蛙，属实顶呱呱！</font>
+<center><font color="blue" size="4">鸭子头上站青蛙，属实顶呱呱！</font></center>
 
 
 [![关于我图片](/images/about/HCNtoMoon_logo_O_small.png "关于我")](https://www.youtube.com/@hcntomoon)

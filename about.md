@@ -99,6 +99,8 @@ title: 关于
 
 **Dedicated to popularizing HCN knowledge and sharing HCN information, and becoming a trustworthy information sharing platform!**
 
+**币圈人士必看、追求正道的华人必看**
+
 ### 网站优势 Advantage⚡
 > [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球用户了解喜币的必看网站之一，Google搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！
 

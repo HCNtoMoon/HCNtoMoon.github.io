@@ -6,7 +6,8 @@
 ### ❗️注意：
 **未经我的许可，您不得重新分发我在此存储库中拥有的任何内容，除非我已经将其归于其他人。如有疑问，请随时向我询问！**
 
-
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
+</div>
 
 - [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)
 - [关于](https://hcntomoon.github.io/about)  

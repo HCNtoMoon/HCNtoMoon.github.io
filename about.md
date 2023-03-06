@@ -5,7 +5,7 @@ tags: 关于
 title: 关于
 ---
 
-##  关于喜币上月球 About HCNtoMoon🚀🌕
+##  关于喜币上月球 About HCNtoMoon 🚀🌕
 
 [![喜币上月球(HCNtoMoon)图片](/images/about/HCNtoMoon.jpg "喜币上月球(HCNtoMoon)网站")](https://www.youtube.com/shorts/RSnNU_QbmG0)
 
@@ -61,12 +61,12 @@ title: 关于
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，Discord username: `喜币上月球#0866` 
 - 🎁 Short URL: [Bitly (All in one)](https://bit.ly/m/hcn)
 - 💰 Bitcoin Lightning Wallet: [Alby](https://getalby.com/p/hcntomoon)
-- 📝 Program: [Github](https://github.com/HCNtoMoon)
+- 📝 Program: [GitHub](https://github.com/HCNtoMoon)
 - 🎼 Music: [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon)
 - 🚫 Blacklist: [My Blacklist](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
 
 
-### 喜币上月球的含义 The meaning of HCNtoMoon🌕
+### 喜币上月球的含义 The meaning of HCNtoMoon 🌕
 
 **HCN to Moon = HCN to the Moon = HCN is going to the Moon**
 
@@ -76,7 +76,7 @@ title: 关于
 
 **月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
-### 网站口号 Slogan🎺 
+### 网站口号 Slogan 🎺 
 ![搜索喜币上月球图片](/images/about/搜索.jpg "搜索喜币上月球")
 
 **今天你[Google搜索“喜币上月球”](https://www.google.com/search?q=%E5%96%9C%E5%B8%81%E4%B8%8A%E6%9C%88%E7%90%83){:target="_blank"} 了吗？** 
@@ -93,7 +93,7 @@ title: 关于
 
 
 
-### 网站使命 Mission Statement💭
+### 网站使命 Mission Statement 💭
 ![喜币上月球的网站使命图片](/images/about/HCNtoMoon_logo.gif "喜币上月球的网站使命")
 
 喜币上月球(HCNtoMoon)网站于2022年4月正式创立，是最早开始介绍喜币的资讯平台，没有之一。我们的使命是“打造中立，权威的区块链综合信息平台”，秉承“一切以用户为本”的理念，为用户提供优质的区块链信息分享服务。
@@ -103,8 +103,8 @@ title: 关于
 **Dedicated to popularizing HCN knowledge and sharing HCN information, and becoming a trustworthy information sharing platform!**
 
 
-### 网站优势 Advantage⚡
-> [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球用户了解喜币的必看网站之一，Google搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！币圈人士必看、追求正道的华人必看！
+### 网站优势 Advantage ⚡
+> [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)秉持着尊重事实，不偏不倚的原则，已经成为全球用户了解喜币的必看网站之一，Google 搜索“喜币” 本网站一直排名首页。喜币上月球，因为专业，所以卓越！币圈人士必看、追求正道的华人必看！
 
 1. 立足喜币，为喜币而生；
 2. 全球知名，在币圈享有盛誉（在充斥假消息的币圈中传播真实弥足珍贵）；
@@ -112,13 +112,13 @@ title: 关于
 4. 实时抓取，信息更新及时，注重新闻时效；
 5. 内容丰富，不止喜币，各种资讯，应有尽有；
 6. 没有广告、没有广告、没有广告，重要的话说三遍；
-7. 绝对安全，网站不需要cookie、也不会收集访问者个人信息。
+7. 绝对安全，网站不需要 cookie、也不会收集访问者个人信息。
 
 
-### 网站更新日志 Website update log✨ 
+### 网站更新日志 Website update log ✨ 
 > 互联网档案馆 [The Wayback Machine](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) 已经记录了本网站的每一次升级！
 
-*   2022-04-22，喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  内容由Markdown语言所写，基于Github Pages制作！ 
+*   2022-04-22，喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  内容由 Markdown 语言所写，基于 GitHub Pages制作！ 
     - 2022-04-23，添加了Jekyll皮肤，修改和优化！
     - 2022-04-24，皮肤继续优化！
     - 2022-04-25，完善超链接，图片库。
@@ -127,7 +127,7 @@ title: 关于
 *   2022-11-19，网站标题自动加上网站名称。
 
 
-### 关键词 Keywords📱
+### 关键词 Keywords 📱
 
 > 常用标签：#喜币上月球 #HCNtoMoon #利好喜币。搜索相关：喜币上月球,喜币,喜币大事记,喜币官网,喜币价格,喜币交易所,喜币价格走势,喜币怎么买,喜币是什么,喜币维基百科,喜币 hcn
 
@@ -148,7 +148,7 @@ title: 关于
 ```
 
 
-### 隐私政策 Privacy policy🔒
+### 隐私政策 Privacy policy 🔒
 ![喜币上月球网站的安全性图片](/images/about/security.jpg "喜币上月球网站的安全性")
 
 谢谢您访问喜币上月球(HCNtoMoon)网站。
@@ -156,7 +156,7 @@ title: 关于
 本网站非常注重保护访问者的安全和个人隐私，不需要cookie，不会收集任何访问者的数据。
 
 ### 免责声明 Disclaimer📢
-欢迎您访问喜币上月球(HCNtoMoon)网站。<font color="green">喜币上月球™ HCNtoMoon™</font>
+欢迎您访问喜币上月球(HCNtoMoon)网站。<font color="green">喜币上月球(HCNtoMoon)™ 喜币上月球™ HCNtoMoon™</font>
 - 本网站的内容将定期更新或修正。
 - 本网站没有任何喜联储的从属关系、批准或背书。
 - 本网站力求信息保持最新和正确，但不保证信息的完整性、准确性、充分性或及时性。您正在阅读的内容仅供参考。
@@ -166,9 +166,9 @@ title: 关于
 
 ### 答谢 Thanks💖 
 - 感谢所有向本网站做出贡献的人，Thank you~
-- 喜币交流Discord群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
+- 喜币交流 Discord 群的邀请链接：<https://discord.gg/HPR3Sfds3a> ，链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！
 - 比特币闪电钱包地址：<https://getalby.com/p/hcntomoon>
-- 如果您对本网站的内容有任何疑问或意见，请通过[喜币上月球的Twitter](https://twitter.com/HCNtoMoon) 、[喜币上月球的Gettr](https://gettr.com/user/hcntomoon) 、[喜币上月球的Reddit](https://www.reddit.com/user/HCNtoMoon)、Discord（`喜币上月球#0866`） 等联系，在线聊天直接说事，你好、hello等省略以节省时间。
+- 如果您对本网站的内容有任何疑问或意见，请通过[喜币上月球 Twitter](https://twitter.com/HCNtoMoon) 、[喜币上月球 Gettr](https://gettr.com/user/hcntomoon) 、[喜币上月球 Reddit](https://www.reddit.com/user/HCNtoMoon)、Discord（`喜币上月球#0866`） 等联系，在线聊天直接说事，你好、hello等省略以节省时间。
 
 
 

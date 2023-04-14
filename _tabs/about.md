@@ -18,7 +18,7 @@ order: 4
 
 ### 关于喜币上月球本人😊
 
-喜币上月球(HCNtoMoon)这个名称的灵感来源于人类登月纪录片Apollo 11《阿波罗11号》和北美健身教练的喜币歌曲《Hcoin To The Moon》。
+喜币上月球(HCNtoMoon)这个名称的灵感来源于人类登月纪录片Apollo 11《阿波罗11号》和北美健身教练的喜币歌曲[Hcoin To The Moon](https://hcntomoon.github.io/posts/Hcoin-To-The-Moon/)。
 
 喜币上月球本人从2021年喜币上市之最初就意识到喜币的重要性，并深信喜币未来将在加密货币领域中占据重要地位，但互联网上却没有专业、系统、详细的介绍喜币的网站，全球最大搜索引擎Google的“喜币”搜索结果充斥着各种假新闻假消息。
 
@@ -37,7 +37,7 @@ order: 4
 - 🌕 Soclal Media:
   - 主要: [Twitter][Twitter], [Gettr](https://gettr.com/user/hcntomoon) , [Facebook][Facebook], [Youtube][Youtube]
   - 主要: [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon),[Mastodon](https://mas.to/@hcntomoon), Damus: HCNtoMoon
-- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，喜币交流群的邀请链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！Discord username: `喜币上月球#0866`
+- 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，喜币交流群邀请链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！Discord username: `喜币上月球#0866`
 
 - 🎁 Short URL: [Bitly (All in one)](https://bit.ly/m/hcn)
 - 💰 Bitcoin Lightning Wallet: [Alby](https://getalby.com/p/hcntomoon)
@@ -112,7 +112,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 ## 网站更新日志 Changelog🔆
 
-- 2023-04-13，`v2.0` 网站完成大升级，全新主题上线，彻底炸裂！💥💥💥
+- 2023-04-13，`v2.0` 网站完成大版本升级，全新主题上线，彻底炸裂！💥💥💥
 - 2023-03-11，`v1.5` 网站日常优化，更多小细节优化。❤️
 - 2022-05-21，`v1.3` 文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
 - 2022-11-19，`v1.4` 网站标题自动加上网站名称。
@@ -147,7 +147,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 感谢所有向本站做出贡献的人，Thank you~
 
-最后，如果您对本站的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter] 、[Gettr][Gettr] 、[喜币上月球 Reddit](https://www.reddit.com/user/HCNtoMoon)、Discord `喜币上月球#0866` 等联系！在线聊天直接说事，你好、hello等省略以节省时间。
+最后，如果您对本站的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter] 、[Gettr][Gettr] 、Discord `喜币上月球#0866` 等联系！在线聊天直接说事，你好、hello等省略以节省时间。
 
   [Banner]: /assets/images/about/hcntomoon-social-card1.png
   [Logo]: /assets/images/about/hcntomoon-logo1.png

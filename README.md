@@ -13,10 +13,13 @@
 - [关于](https://hcntomoon.github.io/about)  
 
 
-p align="center">
-  <img src="https://github.com/HCNtoMoon.png" width="20%">
+<p align="center">
+  <img src="https://github.com/HCNtoMoon.png" width="50%">
 </p>
+
+
 ![喜币上月球图片](https://github.com/HCNtoMoon.png "喜币上月球")
+
 <center><font color="green">Copyright © <a href="https://hcntomoon.github.io" target="_blank">喜币上月球(HCNtoMoon)网站</a> All Rights Reserved.</font></center>
 
 

@@ -39,7 +39,7 @@ copyright:
   verbose: >-
     除非另有说明，本网站上的博客文章均由作者按照知识共享署名 4.0 国际 (CC BY 4.0) 许可协议进行授权。
 
-meta: 本站由 :PLATFORM 生成，采用 :THEME 主题。
+meta: 
 
 not_found:
   statment: 抱歉，页面不存在，您要访问的页面或许在月球上。

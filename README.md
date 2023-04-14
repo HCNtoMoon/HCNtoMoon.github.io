@@ -1,45 +1,45 @@
-![喜币上月球图片](/images/about/HCNtoMoon.jpg "喜币上月球")
-## Hi there, Welcome to [HCNtoMoon](https://hcntomoon.github.io/) 👋 
-### ❗️Notice: 
-**You may not redistribute any content that I own in this repo without my permission, unless I've already attributed it to someone else. When in doubt, please feel free to message me and ask!**
+# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-### ❗️注意：
-**未经我的许可，您不得重新分发我在此存储库中拥有的任何内容，除非我已经将其归于其他人。如有疑问，请随时向我询问！**
+When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
-</div>
+The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-- [喜币上月球(HCNtoMoon)网站](https://hcntomoon.github.io)
-- [关于](https://hcntomoon.github.io/about)  
-- [喜币大事记](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0)
-- [北美健身教练](https://hcntomoon.github.io/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83)
-- [Hcoin To The Moon](https://hcntomoon.github.io/hcoin-to-the-moon)
-- [金融新闻](https://hcntomoon.github.io/%E9%87%91%E8%9E%8D%E6%96%B0%E9%97%BB)
-- [币圈新闻](https://hcntomoon.github.io/%E5%B8%81%E5%9C%88%E6%96%B0%E9%97%BB)
-- [社会新闻](https://hcntomoon.github.io/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB)
-- [喜币新手指南](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
-- [翻墙后看什么](https://hcntomoon.github.io/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88)
-- [科学上网](https://hcntomoon.github.io/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
-- [司马懿](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF)
-- [喜联储主席余建明先生解读加密货币](https://hcntomoon.github.io/%E5%96%9C%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E4%BD%99%E5%BB%BA%E6%98%8E%E5%85%88%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81)
-- [司马懿历史形象再思考](https://hcntomoon.github.io/%E5%8F%B8%E9%A9%AC%E6%87%BF%E5%8E%86%E5%8F%B2%E5%BD%A2%E8%B1%A1%E5%86%8D%E6%80%9D%E8%80%83)
-- [喜币场外交易](https://hcntomoon.github.io/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93)
-- [黑名单](https://hcntomoon.github.io/%E9%BB%91%E5%90%8D%E5%8D%95)
-- [网安新闻](https://hcntomoon.github.io/%E7%BD%91%E5%AE%89%E6%96%B0%E9%97%BB) 
-- [全球喜币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E5%96%9C%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C)
-- [全球数字货币排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C)
-- [全球比特币富豪排行榜](https://hcntomoon.github.io/%E5%85%A8%E7%90%83%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E8%B1%AA%E6%8E%92%E8%A1%8C%E6%A6%9C)
-- [2022年的福布斯年度榜单更新，币圈亿万富翁一年内增加60%！](https://hcntomoon.github.io/2022%E5%B9%B4%E7%9A%84%E7%A6%8F%E5%B8%83%E6%96%AF%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95)
+To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
 
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HCNtoMoon/HCNtoMoon.github.io/gh-pages/images/about/HCNtoMoon.jpg">
-</p>
+To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
+## Prerequisites
 
-<center><font color="green">Copyright © <a href="https://hcntomoon.github.io" target="_blank">喜币上月球(HCNtoMoon)网站</a> All Rights Reserved.</font></center>
+Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
+## Installation
 
+Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
 
+Then clone it to your local machine and run:
 
+```
+$ bundle
+```
 
+## Usage
+
+Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## License
+
+This work is published under [MIT][mit] License.
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[use-template]: https://github.com/cotes2020/chirpy-starter/generate
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE

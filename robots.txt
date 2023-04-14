@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://HCNtoMoon.github.io/sitemap.xml

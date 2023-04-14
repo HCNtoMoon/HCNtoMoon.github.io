@@ -1,4 +1,4 @@
-![喜币上月球图片](https://github.com/HCNtoMoon.jpg "喜币上月球")
+![喜币上月球图片](https://github.com/HCNtoMoon.png "喜币上月球")
 ## Hi there, Welcome to [HCNtoMoon](https://hcntomoon.github.io/) 👋 
 ### ❗️Notice: 
 **You may not redistribute any content that I own in this repo without my permission, unless I've already attributed it to someone else. When in doubt, please feel free to message me and ask!**

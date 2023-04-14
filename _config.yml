@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Taipei
@@ -20,7 +20,7 @@ timezone: Asia/Taipei
 
 title: 喜币上月球(HCNtoMoon) # the main title
 
-tagline: 由资深喜币爱好者创建的非盈利网站，致力于普及喜币知识、分享喜币资讯。 # it will display as the sub-title
+tagline: 喜币上月球，绝顶名千秋！人生何所求，喜币上月球！ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -44,8 +44,8 @@ social:
     - https://twitter.com/hcntomoon # change to your twitter homepage
     - https://github.com/hcntomoon # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.facebook.com/hcntomoon
+     - https://www.youtube.com/@hcntomoon
 
 google_site_verification: # fill in to your verification string
 
@@ -53,7 +53,8 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-E5VVCWR37F # fill in your Google Analytics ID
+  id: G-E5VVCWR37F # fill in your Google Analytics ID 
+  # New GA4 property ,  UA is about to be deprecated on Jul 1, 2023,
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine

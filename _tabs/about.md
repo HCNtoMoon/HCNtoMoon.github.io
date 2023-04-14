@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 关于
-
 [![Banner]][Logo宣传片链接]
 
 > 欢迎您访问🚀[喜币上月球(HCNtoMoon)网站][官网]，网址：<https://hcntomoon.github.io>

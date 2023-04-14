@@ -1,5 +1,5 @@
 ---
-layout: post
+
 tags: 喜币
 ---
 

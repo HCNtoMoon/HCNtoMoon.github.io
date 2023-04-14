@@ -7,6 +7,4 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-我
-a
-啊
+# 关于喜币上月球 About HCNtoMoon 🚀🌕

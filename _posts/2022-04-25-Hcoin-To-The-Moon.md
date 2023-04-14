@@ -1,7 +1,8 @@
 ---
 title: 歌曲Hcoin To The Moon
 author: hcntomoon
-tags: 喜币
+categories: [音乐]
+tags: [音乐, 歌曲]
 ---
 
 ## 歌曲Hcoin To The Moon（MV、音乐、歌词）

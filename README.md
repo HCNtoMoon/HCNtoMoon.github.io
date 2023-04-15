@@ -7,7 +7,6 @@
 <p align="center">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hcntomoon/hcntomoon.github.io">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hcntomoon/hcntomoon.github.io">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hcntomoon/hcntomoon.github.io">
 <a href="https://github.com/hcntomoon/hcntomoon.github.io/stargazers">
   <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/hcntomoon/hcntomoon.github.io">
 </a>

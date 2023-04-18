@@ -19,7 +19,6 @@
 <img alt="GitHub commit activity year" src="https://img.shields.io/github/commit-activity/y/hcntomoon/hcntomoon.github.io">
 <img alt="GitHub commit activity month" src="https://img.shields.io/github/commit-activity/m/hcntomoon/hcntomoon.github.io">
 <img alt="GitHub commit activity week" src="https://img.shields.io/github/commit-activity/w/hcntomoon/hcntomoon.github.io">
-</a>
 </p>
 
 <p align="center">
@@ -35,11 +34,11 @@
 
 <p align="center">
   <a href="https://github.com/hcntomoon/hcntomoon.github.io/commits/gh-pages">
-		<img alt="GitHub Repo last commit" src="https://img.shields.io/github/last-commit/hcntomoon/hcntomoon.github.io">
-	</a>
-	<a href="https://hcntomoon.github.io">
-		<img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=HCNtoMoon&color=red&labelColor=000000">
-	</a>
+  <img alt="GitHub Repo last commit" src="https://img.shields.io/github/last-commit/hcntomoon/hcntomoon.github.io">
+ </a>
+ <a href="https://hcntomoon.github.io">
+  <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=HCNtoMoon&color=red&labelColor=000000">
+ </a>
   <img alt="license" src="https://img.shields.io/github/license/hcntomoon/hcntomoon.github.io">
 </p>
 
@@ -56,12 +55,12 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/HCNtoMoon.png" width="20%">
+ <img src="https://github.com/HCNtoMoon.png" width="20%">
 </p>
 
 <p align="center">
-	<a href="#-website">Website</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	<a href="#-notice">Notice</a>
+ <a href="#-website">Website</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-notice">Notice</a>
 </p>
 
 <p align="center">
@@ -72,10 +71,6 @@
 <img alt="Coincap (ethereum Change Percent 24Hr)" src="https://img.shields.io/coincap/change-percent-24hr/ethereum">
 <img alt="tether" src="https://img.shields.io/coincap/price-usd/tether">
 </p>
-
-
-
-
 
 ## 🚀 Website
 

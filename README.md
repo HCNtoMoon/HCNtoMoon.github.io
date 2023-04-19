@@ -94,6 +94,7 @@
 ## Picture
 
 ![喜币上月球图片](https://github.com/HCNtoMoon.png "喜币上月球")
+<font color="red"> 喜币上月球™ </font>和<font color="red"> HCNtoMoon™</font>均为喜币上月球(HCNtoMoon)网站商标
 
 ## Star history
 

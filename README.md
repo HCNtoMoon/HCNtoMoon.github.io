@@ -91,4 +91,10 @@
 
 <center><font color="green">Copyright © <a href="https://hcntomoon.github.io" target="_blank">喜币上月球(HCNtoMoon)网站</a> All Rights Reserved.</font></center>
 
+## Picture
+
 ![喜币上月球图片](https://github.com/HCNtoMoon.png "喜币上月球")
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hcntomoon/hcntomoon.github.io&type=Date)](https://star-history.com/#ismartcoding/plain-app&Date)

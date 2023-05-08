@@ -183,9 +183,9 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
   [Youtube]: https://www.youtube.com/@hcntomoon
   [Bitly]: https://bit.ly/m/hcn
   [Gettr]: https://gettr.com/user/hcntomoon
-  [黑名单]: https://hcntomoon.github.io/posts/%E9%BB%91%E5%90%8D%E5%8D%95
-  [Hcoin To The Moon]: https://hcntomoon.github.io/posts/Hcoin-To-The-Moon
-  [司马懿]: https://hcntomoon.github.io/posts/%E5%8F%B8%E9%A9%AC%E6%87%BF/
-  [北美健身教练]: https://hcntomoon.github.io/posts/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83/
-  [喜币]: https://hcntomoon.github.io/posts/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0/
-  [喜币场外交易]: https://hcntomoon.github.io/posts/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93/
+  [黑名单]: /posts/%E9%BB%91%E5%90%8D%E5%8D%95
+  [Hcoin To The Moon]: /posts/Hcoin-To-The-Moon
+  [司马懿]: /posts/%E5%8F%B8%E9%A9%AC%E6%87%BF/
+  [北美健身教练]: /posts/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83/
+  [喜币]: /posts/%E5%96%9C%E5%B8%81%E5%A4%A7%E4%BA%8B%E8%AE%B0/
+  [喜币场外交易]: /posts/%E5%96%9C%E5%B8%81%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%98%93/

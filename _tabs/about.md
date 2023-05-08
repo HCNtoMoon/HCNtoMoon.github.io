@@ -134,6 +134,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 ## 网站更新日志 Changelog🔆
 
+- 2023-05-08，`v2.1` 网站新增域名`hcnm.eu.org`
 - 2023-04-13，`v2.0` 网站完成大版本升级，全新主题上线，彻底炸裂！💥💥💥
 - 2023-03-11，`v1.5` 网站日常优化，更多小细节优化。❤️
 - 2022-05-21，`v1.3` 文章新增按标签分类和按时间排序功能，文章内容页面底部新增上一篇下一篇功能。
@@ -183,7 +184,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
   [Youtube]: https://www.youtube.com/@hcntomoon
   [Bitly]: https://bit.ly/m/hcn
   [Gettr]: https://gettr.com/user/hcntomoon
-  [黑名单]: /posts/%E9%BB%91%E5%90%8D%E5%8D%95
+  [黑名单]: /posts/%E9%BB%91%E5%90%8D%E5%8D%95/
   [Hcoin To The Moon]: /posts/Hcoin-To-The-Moon
   [司马懿]: /posts/%E5%8F%B8%E9%A9%AC%E6%87%BF/
   [北美健身教练]: /posts/%E5%8C%97%E7%BE%8E%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83/

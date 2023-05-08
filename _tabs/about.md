@@ -57,7 +57,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 **月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
-### 喜币上月球的多语种展示🔣
+### 喜币上月球的多语种翻译🔣
 
 喜币上月球（英语：HCNtoMoon；繁体：喜幣上月球）
 
@@ -75,7 +75,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 | 葡萄牙语 | HCN vai à lua            |
 | 火星文   | 禧币仩仴浗               |
 
-（*注：部分喜币上月球的翻译语言来自 Google translate*）
+（*注：部分翻译来自 Google translate*）
 
 ## 网站口号 Slogan🎺
 

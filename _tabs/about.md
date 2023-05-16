@@ -6,7 +6,7 @@ order: 4
 
 [![Banner]][Logo宣传片链接]
 
-> 欢迎您访问🚀[喜币上月球(HCNtoMoon)网站][官网]，<https://hcntomoon.github.io>、<https://hcnm.eu.org>
+> 欢迎您访问喜币上月球(HCNtoMoon)网站：<https://hcntomoon.github.io>、<https://hcnm.eu.org>
 
 ## 关于喜币上月球(HCNtoMoon)网站 🚀🌕
 

@@ -14,7 +14,7 @@ order: 4
 
 **🚀[喜币上月球(HCNtoMoon)网站][官网]致力于普及喜币知识、分享喜币资讯，成为值得信赖的信息分享网站！**
 
-2022年4月22日[喜币上月球(HCNtoMoon)网站][官网]正式上线！🎉
+2022年4月22日[喜币上月球(HCNtoMoon)网站][官网]正式上线！🎉 稳定运行，值得信赖！
 
 ### 关于喜币上月球本人😊
 
@@ -104,7 +104,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 ![网站安全图片]
 > 🚀[喜币上月球(HCNtoMoon)网站][官网]秉持着尊重事实，不偏不倚的原则，成为全球用户了解喜币的必看网站之一，Google 搜索“喜币” 本站一直排名首页🥇。喜币上月球网站，因为专业，所以卓越！币圈人士必看、追求正道的华人必看！
 
-网站优势，下面我只说7点：
+网站优势：
 
 1. 立足喜币，为喜币而生，喜币上月球，HCN to Moon；
 2. 全球知名，在币圈和喜币交流群享有盛誉；
@@ -146,7 +146,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 - 2022-04-23，`v1.1` 添加皮肤，修改和优化！
 - 2022-04-22，`v1.0` 喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  使用域名`hcntomoon.github.io`，基于 GitHub Pages 和 Jekyll 的静态网站，内容由 Markdown 语言所写，用 ❤️ 制作！
 
-注：域名`hcntomoon.github.io`的[互联网档案馆记录](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) ，来自The Wayback Machine。
+*首页的更新记录 What’s new：域名`hcntomoon.github.io`的[互联网档案馆记录](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) ，来自The Wayback Machine。*
 
 ## 隐私政策 Privacy policy🔒
 

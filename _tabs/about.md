@@ -22,7 +22,7 @@ order: 4
 
 喜币上月球本人从2021年喜币上市之最初就意识到喜币的重要性，并深信喜币未来将在加密货币领域中占据重要地位，但互联网上却没有专业、系统、详细的介绍喜币的网站，全球最大搜索引擎Google的“喜币”搜索结果充斥着各种假新闻假消息。
 
-于是2021年11月，喜币上月球本人进入[推特][Twitter]，接着入驻了[脸书][Facebook]、 [油管][Youtube]等各大社交媒体，接着[喜币上月球(HCNtoMoon)网站][官网]正式上线。经历过数不清的日日夜夜，全凭一腔热血，肝出来的[喜币上月球全平台体系][Bitly]基本形成，通过在多个互联网新媒体平台建立账号矩阵，能够覆盖到更广泛的用户群体，影响力日益扩大！
+于是2021年11月，喜币上月球本人进入[推特][Twitter]，接着入驻了[脸书][Facebook]、 [油管][Youtube]等各大社交媒体，接着[喜币上月球(HCNtoMoon)网站][官网]正式上线。经历过数不清的日日夜夜，全凭一腔热血，肝出来的[喜币上月球全平台体系][Links]基本形成，通过在多个互联网新媒体平台建立账号矩阵，能够覆盖到更广泛的用户群体，影响力日益扩大！
 
 喜币上月球本人自称为喜币小百科，现在对各种喜币消息熟记于心，经历过喜币的暴涨和暴跌，也经历过场外交易，历经风雨，希望有朝一日，喜币能真正上月球。
 
@@ -42,12 +42,12 @@ order: 4
   - 3️⃣: Damus: HCNtoMoon, Discord name: `喜币上月球#0866`
 - 👯 Chat Room: [DiscordServer](https://discord.gg/HPR3Sfds3a)，*喜币交流群邀请链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！*
 - 💰 Crypto Wallet: Bitcoin Lightning Wallet[Alby](https://getalby.com/p/hcntomoon)
-- 📝 Program: [GitHub](https://github.com/HCNtoMoon)
+- ⚙️ Program: [GitHub](https://github.com/HCNtoMoon)
 - 🎼 Music: [Hcoin To The Moon][Hcoin To The Moon]
 - 🚫 Blacklist: [黑名单][黑名单]
-- 🎁 Short URL: [Bitly (All in one)][Bitly]
+- 🧷 Links all in one: [HCNtoMoon Links][Links]
 
-喜币上月球本人将确保在[喜币上月球(HCNtoMoon)网站][官网]上发布的每条内容都经过严格的筛选和事实检查，在发出后也会不定期的随时更新以保证质量。如果您对[喜币上月球(HCNtoMoon)网站][官网]的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter] 、[Gettr][Gettr] 、Discord `喜币上月球#0866` 等社交媒体进行联系！在线聊天直接说事，你好、hello等省略以节省时间。
+
 
 ### 喜币上月球的含义 The meaning of HCNtoMoon🌕
 
@@ -160,6 +160,8 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 欢迎您访问[喜币上月球(HCNtoMoon)网站][官网]（以下简称“本站”）
 
+喜币上月球本人将确保在[喜币上月球(HCNtoMoon)网站][官网]上发布的每条内容都经过严格的筛选和事实检查，在发出后也会不定期的随时更新以保证质量。如果您对[喜币上月球(HCNtoMoon)网站][官网]的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter] 、[Gettr][Gettr] 、Discord `喜币上月球#0866` 等社交媒体进行联系！在线聊天直接说事，你好、hello等省略以节省时间。
+
 - 除有关法律法规、国际条约另有规定或本站与第三方另有约定外，本站的内容受有关法律法规及国际条约的保护，知识产权均归属本站所有。
 - 本站没有任何喜联储的从属关系、批准或背书。
 - 本站的内容将定期更新或修正，力求保持最新和正确的信息，但不保证信息的完整性、准确性、充分性或及时性。
@@ -185,7 +187,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
   [Twitter]: https://twitter.com/HCNtoMoon
   [Facebook]: https://www.facebook.com/hcntomoon
   [Youtube]: https://www.youtube.com/@hcntomoon
-  [Bitly]: https://bit.ly/m/hcn
+  [Links]: https://links.hcnm.eu.org/
   [Gettr]: https://gettr.com/user/hcntomoon
   [黑名单]: /posts/%E9%BB%91%E5%90%8D%E5%8D%95/
   [Hcoin To The Moon]: /posts/Hcoin-To-The-Moon

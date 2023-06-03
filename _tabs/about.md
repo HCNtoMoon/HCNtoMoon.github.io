@@ -148,7 +148,12 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 - 2022-04-23，`v1.1` 添加皮肤，修改和优化！
 - 2022-04-22，`v1.0` 喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  使用域名`hcntomoon.github.io`，基于 GitHub Pages 和 Jekyll 的静态网站，内容由 Markdown 语言所写，用 ❤️ 制作！
 
-*首页的更新记录 What’s new：域名`hcntomoon.github.io`的[互联网档案馆记录](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/) ，来自The Wayback Machine。*
+### 首页更新记录 What’s new
+
+> 来自The Wayback Machine的互联网档案馆记录
+
+- [hcntomoon.github.io域名记录](https://web.archive.org/web/20220501000000*/https://hcntomoon.github.io/)
+- [hcnm.eu.org域名记录](https://web.archive.org/web/20230915000000*/https://hcnm.eu.org/)
 
 ## 隐私政策 Privacy policy🔒
 
@@ -183,7 +188,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
   [网站词云图片]: /assets/images/about/wordcloud.png
   [网站安全图片]: /assets/images/about/security.jpg
   [Logo宣传片链接]: https://www.youtube.com/shorts/RSnNU_QbmG0
-  [官网]: https://hcntomoon.github.io
+  [官网]: https://hcnm.eu.org
   [Twitter]: https://twitter.com/HCNtoMoon
   [Facebook]: https://www.facebook.com/hcntomoon
   [Youtube]: https://www.youtube.com/@hcntomoon

@@ -4,11 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+# 关于喜币上月球 喜幣上月球 HCNtoMoon🚀🌕
+
 [![Banner]][Logo宣传片链接]
 
 > 欢迎您访问喜币上月球(HCNtoMoon)网站：<https://hcntomoon.github.io>、<https://hcnm.eu.org>
 
-## 关于喜币上月球(HCNtoMoon)网站 🚀🌕
+## 关于喜币上月球(HCNtoMoon)网站🌐
 
 **立足喜币，专注金融，放眼世界，展望未来！**
 
@@ -16,9 +18,9 @@ order: 4
 
 2022年4月22日[喜币上月球(HCNtoMoon)网站][官网]正式上线！🎉 稳定运行，值得信赖！
 
-### 关于喜币上月球本人😊
+## 关于喜币上月球本人🌚
 
-喜币上月球(HCNtoMoon)这个名称的灵感来源于人类登月纪录片Apollo 11《阿波罗11号》和北美健身教练的喜币歌曲[Hcoin To The Moon][Hcoin To The Moon]。
+喜币上月球（英语：HCNtoMoon；繁体：喜幣上月球）这个名称的灵感来源于人类登月纪录片Apollo 11《阿波罗11号》和北美健身教练的喜币歌曲[Hcoin To The Moon][Hcoin To The Moon]。
 
 喜币上月球本人从2021年喜币上市之最初就意识到喜币的重要性，并深信喜币未来将在加密货币领域中占据重要地位，但互联网上却没有专业、系统、详细的介绍喜币的网站，全球最大搜索引擎Google的“喜币”搜索结果充斥着各种假新闻假消息。
 
@@ -34,6 +36,8 @@ order: 4
 
 <font color="green" size="3">鸭子头上站青蛙，属实顶呱呱！</font>
 
+## 喜币上月球的社交媒体📱
+
 - 🔭 爱香港爱台湾，仰慕[司马懿][司马懿]和[北美健身教练][北美健身教练]，资深[喜币][喜币]爱好者，极力推崇[喜币场外交易][喜币场外交易]。Love Hong Kong and Taiwan, admire Sima Yi and North America fitness coach, senior HCN enthusiast, highly recommend HCN OTC trading.
 - 🚀️ Website: [喜币上月球(HCNtoMoon)网站][官网]
 - 🌕 Soclal Media:
@@ -47,21 +51,9 @@ order: 4
 - 🚫 Blacklist: [黑名单][黑名单]
 - 🧷 Links all in one: [HCNtoMoon Links][Links]
 
+## 喜币上月球的多语种翻译🔣
 
-
-### 喜币上月球的含义 The meaning of HCNtoMoon🌕
-
-HCN to Moon = HCN to the Moon = HCN is going to the Moon
-
-[![喜币上月球含义图片]][Logo宣传片链接]
-
-**Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefully not back!). 'HCN is going to the Moon' means The price of HCN is soaring.**
-
-**月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
-
-### 喜币上月球的多语种翻译🔣
-
-喜币上月球（英语：HCNtoMoon；繁体：喜幣上月球）
+> 喜币上月球，喜币奔月，喜币奔向月球的全球多语种翻译。英语：HCNtoMoon；繁体：喜幣上月球……
 
 | 语种     | 内容                     |
 |----------|--------------------------|
@@ -77,7 +69,17 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 | 葡萄牙语 | HCN vai à lua            |
 | 火星文   | 禧币仩仴浗               |
 
-（*注：部分翻译来自 Google translate*）
+（*注：部分翻译来自 Google translate，翻译可能不准确*）
+
+## 喜币上月球的含义 The meaning of HCNtoMoon🌕
+
+HCN to Moon = HCN to the Moon = HCN is going to the Moon
+
+[![喜币上月球含义图片]][Logo宣传片链接]
+
+**Moon or Mooning describes when a cryptocurrency price increases sharply, shooting the price to the moon (and hopefully not back!). 'HCN is going to the Moon' means The price of HCN is soaring.**
+
+**月球或上月球描述了当加密货币的价格急剧上涨时，就像射向月球（同时希望不会下落！）。“喜币上月球”就是喜币的价格正在飙升。**
 
 ## 网站口号 Slogan🎺
 
@@ -116,7 +118,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 6. 绝对安全，基于全球最大程序员网站 GitHub ，不惧各种 DDOS 攻击，永不下线；
 7. 绝对隐私，访问不需要 cookies ，也不会收集访问者个人信息。
 
-## 关键词 Keywords📱
+## 关键词 Keywords#️⃣
 
 > 常用的关键词Keywords或标签Tags：#喜币上月球 #HCNtoMoon #利好喜币。搜索相关：喜币上月球, 喜币, 喜币大事记, 喜币官网, 喜币价格, 喜币交易所, 喜币价格走势, 喜币怎么买, 喜币是什么, 喜币维基百科, 喜币 hcn
 
@@ -148,7 +150,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 - 2022-04-23，`v1.1` 添加皮肤，修改和优化！
 - 2022-04-22，`v1.0` 喜币上月球(HCNtoMoon)网站正式上线！ 🎉🎉🎉  使用域名`hcntomoon.github.io`，基于 GitHub Pages 和 Jekyll 的静态网站，内容由 Markdown 语言所写，用 ❤️ 制作！
 
-### 首页更新记录 What’s new
+### 首页更新记录 What’s new🆕
 
 > 来自The Wayback Machine的互联网档案馆记录
 
@@ -161,7 +163,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 本站非常注重保护访问者的安全和个人隐私，不需要cookie，不会收集任何访问者的数据。
 
-## 免责声明 📢
+## 免责声明📢
 
 欢迎您访问[喜币上月球(HCNtoMoon)网站][官网]（以下简称“本站”）
 

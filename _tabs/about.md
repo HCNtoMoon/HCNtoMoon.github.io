@@ -41,7 +41,7 @@ order: 4
 - 🔭 爱香港爱台湾，仰慕[司马懿][司马懿]和[北美健身教练][北美健身教练]，资深[喜币][喜币]爱好者，极力推崇[喜币场外交易][喜币场外交易]。Love Hong Kong and Taiwan, admire Sima Yi and North America fitness coach, senior HCN enthusiast, highly recommend HCN OTC trading.
 - 🚀️ **Website**: [喜币上月球(HCNtoMoon)网站][官网]
 - 🌕 **Soclal Media**:
-  - 1️⃣: [Twitter][Twitter], [Gettr][Gettr], [Facebook][Facebook], [Youtube][Youtube]
+  - 1️⃣: [Twitter][Twitter], [Facebook][Facebook], [Youtube][Youtube]
   - 2️⃣: [Reddit](https://www.reddit.com/user/HCNtoMoon), [Tiktok](https://www.tiktok.com/@hcntomoon), [Mastodon](https://mas.to/@hcntomoon)
   - 3️⃣: Damus: HCNtoMoon
 - 👯 **Chat Room**: [喜币交流群DiscordServer](https://discord.gg/HPR3Sfds3a)，*喜币交流群邀请链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！*
@@ -130,7 +130,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 #喜币 #HCN #喜美元 #HDO #喜支付 #HPAY #喜交所 #HimalayaExchange #喜联储 #喜欧元 #HEU #喜黄金 #喜钱包 //喜马拉雅交易所相关的标签
 #北美健身教练 #SWIFT #利好喜币 #喜币场外交易 #喜币场外对敲 //喜币其他标签
 #币圈新闻 #Blockchain #区块链 #DigitalCurrency #数字货币 #CryptoCurrency #加密货币 #虚拟货币 //区块链新闻的标签
-#比特币 #Bitcoin #以太坊 #ETH #稳定币 #Stablecoin #浮动币 #躺平币 #盖特币 #GettrCoin #币安 #Binance #USDT //数字货币的标签
+#比特币 #Bitcoin #以太坊 #ETH #稳定币 #Stablecoin #浮动币 #躺平币 #盖特币 #币安 #Binance #USDT //数字货币的标签
 #DeFi #GameFi #Coinbase #Metaverse #元宇宙 #NFT #非同质化代币  //其他数字货币
 #金融 #金融新闻 #投资 #理财 #财经新闻 #FinanceNews #股市 #股票 //金融新闻的标签
 #翻墙新闻 #科学上网 #翻墙后 #社会新闻//其他新闻的标签
@@ -168,7 +168,7 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
 
 欢迎您访问[喜币上月球(HCNtoMoon)网站][官网]（以下简称“本站”）
 
-喜币上月球本人将确保在[喜币上月球(HCNtoMoon)网站][官网]上发布的每条内容都经过严格的筛选和事实检查，在发出后也会不定期的随时更新以保证质量。如果您对[喜币上月球(HCNtoMoon)网站][官网]的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter]、[Gettr][Gettr]、[DiscordServer](https://discord.gg/HPR3Sfds3a)等社交媒体进行联系！在线聊天直接说事，你好、hello等省略以节省时间。
+喜币上月球本人将确保在[喜币上月球(HCNtoMoon)网站][官网]上发布的每条内容都经过严格的筛选和事实检查，在发出后也会不定期的随时更新以保证质量。如果您对[喜币上月球(HCNtoMoon)网站][官网]的内容有任何疑问或建议，请通过喜币上月球的[Twitter][Twitter]、[DiscordServer](https://discord.gg/HPR3Sfds3a)等社交媒体进行联系！在线聊天直接说事，你好、hello等省略以节省时间。
 
 - 除有关法律法规、国际条约另有规定或本站与第三方另有约定外，本站的内容受有关法律法规及国际条约的保护，知识产权均归属本站所有。
 - 本站没有任何喜联储的从属关系、批准或背书。
@@ -196,7 +196,6 @@ HCN to Moon = HCN to the Moon = HCN is going to the Moon
   [Facebook]: https://www.facebook.com/hcntomoon
   [Youtube]: https://www.youtube.com/@hcntomoon
   [Links]: https://links.hcnm.eu.org/
-  [Gettr]: https://gettr.com/user/hcntomoon
   [黑名单]: /posts/%E9%BB%91%E5%90%8D%E5%8D%95/
   [Hcoin To The Moon]: /posts/Hcoin-To-The-Moon
   [司马懿]: /posts/%E5%8F%B8%E9%A9%AC%E6%87%BF/

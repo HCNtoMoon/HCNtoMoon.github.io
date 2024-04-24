@@ -49,9 +49,7 @@
 <a href="https://www.youtube.com/@hcntomoon">
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCM3ii_co08ZqJBlWwl5s8zw?style=social">
 </a>
-<a href="https://www.reddit.com/user/HCNtoMoon">
-  <img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/hcntomoon?style=social">
-</a>
+
 </p>
 
 <p align="center">

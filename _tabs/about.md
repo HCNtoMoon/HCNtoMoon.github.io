@@ -46,7 +46,6 @@ order: 4
   - 3️⃣: Damus: HCNtoMoon
 - 👯 **Chat Room**: [喜币交流群DiscordServer](https://discord.gg/HPR3Sfds3a)，*喜币交流群邀请链接永久有效，欢迎大家加入！关于喜币、币圈、金融等，在这里都可以畅所欲言！*
   - 🌕Discord admin: 喜币上月球`hcntomoon`
-- 💰 **Crypto Wallet**: Bitcoin Lightning Wallet[Alby](https://getalby.com/p/hcntomoon)
 - ⚙️ **Program**: [GitHub](https://github.com/HCNtoMoon)
 - 🎼 **Music**: [Hcoin To The Moon][Hcoin To The Moon]
 - 🚫 **Blacklist**: [喜币黑名单][黑名单]
